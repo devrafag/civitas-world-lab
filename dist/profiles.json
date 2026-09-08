@@ -1,0 +1,2451 @@
+{
+  "version": "0.3",
+  "cutoff": "2026-09-08",
+  "automaticUpdates": false,
+  "profiles": [
+    {
+      "id": "USA",
+      "name": "Estados Unidos",
+      "region": "Global",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 341784857,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 30769700000000,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 90026.5163005744,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=USA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 954,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 3.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Competencia entre potencias; compromisos de seguridad y comercio.",
+        "restraints": "Costes de escalada, alianzas y canales diplomáticos.",
+        "watch": [
+          "CHN",
+          "RUS",
+          "IRN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "region": "Indopacífico",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 1406585000,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 19498039388042.6,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 13861.970224368,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=CHN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 336,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 1.7,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Estrecho de Taiwán; comercio y competencia tecnológica.",
+        "restraints": "Interdependencia comercial y costes regionales de una crisis.",
+        "watch": [
+          "USA",
+          "TWN",
+          "IND",
+          "JPN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "RUS",
+      "name": "Rusia",
+      "region": "Europa / Eurasia",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 143513328,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 2561310169358.74,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 17546.609375,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=RUS",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 190,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 7.5,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Relación con Ucrania y seguridad europea.",
+        "restraints": "Negociación, costes sostenidos y riesgo de escalada nuclear.",
+        "watch": [
+          "UKR",
+          "USA",
+          "DEU"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "IND",
+      "name": "India",
+      "region": "Asia meridional",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 1463865525,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 3956067115771.63,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 2702.47987141553,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=IND",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 92.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.3,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Relaciones con Pakistán y China; comercio regional.",
+        "restraints": "Canales de diálogo y costes de un enfrentamiento regional.",
+        "watch": [
+          "PAK",
+          "CHN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "GBR",
+      "name": "Reino Unido",
+      "region": "Europa / Atlántico",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 69487000,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 4002587541846.01,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 57601.9621201954,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=GBR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 89,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.4,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad europea y compromisos colectivos.",
+        "restraints": "Coordinación aliada y diplomacia.",
+        "watch": [
+          "USA",
+          "FRA",
+          "RUS"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "FRA",
+      "name": "Francia",
+      "region": "Europa / Mediterráneo",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 68720337,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 3366315927447.33,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 48985.7307807924,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=FRA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 68,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad europea y estabilidad mediterránea.",
+        "restraints": "Instituciones multilaterales y cooperación regional.",
+        "watch": [
+          "DEU",
+          "GBR",
+          "ESP"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "DEU",
+      "name": "Alemania",
+      "region": "Europa",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 83491249,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 5050922925047.05,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 60496.4350820414,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=DEU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 114,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.3,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad europea; resiliencia industrial y comercial.",
+        "restraints": "Coordinación aliada e interdependencia económica.",
+        "watch": [
+          "RUS",
+          "FRA",
+          "USA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "JPN",
+      "name": "Japón",
+      "region": "Asia oriental",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 123366734,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 4435162999976.94,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 35951.0449549304,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=JPN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 62.2,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 1.4,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        },
+        {
+          "text": "Tratado de seguridad con Estados Unidos",
+          "url": "https://www.mofa.go.jp/region/n-america/us/q%26a/ref/1.html"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad marítima y estabilidad de cadenas productivas.",
+        "restraints": "Acuerdos de seguridad y canales diplomáticos.",
+        "watch": [
+          "CHN",
+          "USA",
+          "PRK"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "KOR",
+      "name": "Corea del Sur",
+      "region": "Asia oriental",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 51684564,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 1872374961553.15,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 36226.9663637512,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=KOR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 47.8,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.6,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        },
+        {
+          "text": "Tratado de defensa mutua con Estados Unidos",
+          "url": "https://www.mofa.go.kr/eng/wpge/m_4904/contents.do"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Estabilidad de la península coreana.",
+        "restraints": "Disuasión y comunicación para evitar errores de cálculo.",
+        "watch": [
+          "PRK",
+          "USA",
+          "JPN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "PRK",
+      "name": "Corea del Norte",
+      "region": "Asia oriental",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 26571036,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=PRK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": null,
+          "period": "—",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en la fuente consultada."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en la fuente consultada."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Programa nuclear y relación intercoreana.",
+        "restraints": "Costes de una escalada y contactos diplomáticos.",
+        "watch": [
+          "KOR",
+          "USA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "TWN",
+      "name": "Taiwán",
+      "region": "Asia oriental",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TWN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TWN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TWN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB · interanual trimestral",
+          "unit": "%",
+          "value": 12.93,
+          "period": "2026 T2",
+          "source": "DGBAS",
+          "url": "https://eng.stat.gov.tw/News_Content.aspx?n=2317&s=236587",
+          "retrieved": "2026-09-08",
+          "note": "Estimación preliminar, publicada 14/08/2026. No comparable directamente con crecimiento anual."
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TWN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo sin ajuste estacional",
+          "unit": "%",
+          "value": 3.39,
+          "period": "2026-07",
+          "source": "DGBAS",
+          "url": "https://eng.stat.gov.tw/News_Content.aspx?n=2317&s=236627",
+          "retrieved": "2026-09-08",
+          "note": "Publicado 24/08/2026; dato mensual."
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=TWN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 18.2,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Estabilidad del estrecho y cadenas de semiconductores.",
+        "restraints": "Costes comerciales y mecanismos de comunicación.",
+        "watch": [
+          "CHN",
+          "USA",
+          "JPN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado.",
+        "Cobertura económica parcial: Taiwán se trata como entidad de análisis diferenciada."
+      ]
+    },
+    {
+      "id": "PAK",
+      "name": "Pakistán",
+      "region": "Asia meridional",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 255219554,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 407307214476.222,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 1595.90912252837,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=PAK",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 11.9,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.9,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Relación con India y estabilidad regional.",
+        "restraints": "Disuasión y vías de negociación.",
+        "watch": [
+          "IND",
+          "CHN"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "IRN",
+      "name": "Irán",
+      "region": "Oriente Medio",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 92417681,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 362682115433.364,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 3924.38017821898,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=IRN",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 7.4,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad regional, programa nuclear y navegación comercial.",
+        "restraints": "Mediación y costes económicos de una crisis.",
+        "watch": [
+          "USA",
+          "ISR",
+          "SAU"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "ISR",
+      "name": "Israel",
+      "region": "Oriente Medio",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 10122800,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 610777842873.595,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 60336.8477964194,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=ISR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 48.3,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 7.8,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "Estado con armamento nuclear según SIPRI",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Relación con Irán y seguridad regional.",
+        "restraints": "Mediación y acuerdos diplomáticos.",
+        "watch": [
+          "IRN",
+          "USA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "SAU",
+      "name": "Arabia Saudí",
+      "region": "Oriente Medio",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 36973555,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 1276942933333.33,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 34536.6555456551,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=SAU",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 83.2,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 6.5,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad energética y estabilidad del Golfo.",
+        "restraints": "Negociación y continuidad del comercio energético.",
+        "watch": [
+          "IRN",
+          "USA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "TUR",
+      "name": "Turquía",
+      "region": "Europa / Oriente Medio",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 85878556,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 1597293229287,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 18599.4420922378,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=TUR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 30,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 1.9,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Mar Negro y estabilidad regional.",
+        "restraints": "Cooperación aliada y negociación regional.",
+        "watch": [
+          "RUS",
+          "UKR",
+          "USA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "UKR",
+      "name": "Ucrania",
+      "region": "Europa",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 38980376,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 214233312784.397,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 5865.884765625,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=UKR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 84.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 40,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Estimación SIPRI."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Seguridad, reconstrucción y relación con Rusia.",
+        "restraints": "Diplomacia y acuerdos verificables.",
+        "watch": [
+          "RUS",
+          "USA",
+          "DEU"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "ESP",
+      "name": "España",
+      "region": "Europa / Mediterráneo",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 49355143,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 1906453309985.88,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 38627.2472148623,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=ESP",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 40.2,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 2.1,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "Miembro de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Estrecho y cooperación con el norte de África.",
+        "restraints": "Cooperación bilateral, comercio e instituciones europeas.",
+        "watch": [
+          "MAR",
+          "DZA",
+          "FRA"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "MAR",
+      "name": "Marruecos",
+      "region": "Magreb",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 38430770,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 182374250612.28,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 4672.46826171875,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=MAR",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 6.3,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en la fuente consultada."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Sáhara Occidental y relaciones con Argelia y España.",
+        "restraints": "Diplomacia, cooperación comercial y mediación.",
+        "watch": [
+          "DZA",
+          "ESP"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    },
+    {
+      "id": "DZA",
+      "name": "Argelia",
+      "region": "Magreb",
+      "metrics": {
+        "population": {
+          "label": "Población",
+          "unit": "personas",
+          "value": 47435312,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "gdp": {
+          "label": "PIB nominal",
+          "unit": "USD",
+          "value": 287031225987.736,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "income": {
+          "label": "PIB por habitante",
+          "unit": "USD/persona",
+          "value": 6051.00322704182,
+          "period": "2025",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "Último valor no nulo recuperado del intervalo 2024–2025."
+        },
+        "growth": {
+          "label": "Crecimiento real del PIB",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "inflation": {
+          "label": "Inflación IPC",
+          "unit": "% anual",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "unemployment": {
+          "label": "Desempleo estimado OIT",
+          "unit": "%",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "personnel": {
+          "label": "Personal de fuerzas armadas · histórico",
+          "unit": "personas",
+          "value": null,
+          "period": "—",
+          "source": "Banco Mundial",
+          "url": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=DZA",
+          "retrieved": "2026-09-08",
+          "note": "No disponible en el corte consultado"
+        },
+        "military": {
+          "label": "Gasto militar",
+          "unit": "miles de millones USD",
+          "value": 25.4,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        },
+        "militaryShare": {
+          "label": "Gasto militar / PIB",
+          "unit": "%",
+          "value": 8.8,
+          "period": "2025",
+          "source": "SIPRI",
+          "url": "https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf",
+          "retrieved": "2026-09-08",
+          "note": "Gasto anual; no equivale a capacidad operativa."
+        }
+      },
+      "nuclear": {
+        "text": "No incluido por SIPRI entre los nueve estados con armamento nuclear",
+        "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+        "period": "enero de 2026"
+      },
+      "alliances": [
+        {
+          "text": "No figura entre los miembros de la OTAN",
+          "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+        }
+      ],
+      "assessment": {
+        "type": "Valoración cualitativa del proyecto; no predicción",
+        "focus": "Relación con Marruecos y estabilidad mediterránea.",
+        "restraints": "Mediación y cooperación energética.",
+        "watch": [
+          "MAR",
+          "ESP"
+        ]
+      },
+      "limitations": [
+        "Las relaciones a observar incluyen cooperación y tensión: no son una lista de enemigos.",
+        "Sin evaluación de probabilidad de guerra ni inventario operativo validado."
+      ]
+    }
+  ],
+  "methodology": "Datos publicados separados del simulador. No se recalibra el motor de aprendizaje con estas fichas. Relaciones a observar elegidas por criterio analítico, sin puntuaciones de riesgo. Las cifras ausentes permanecen nulas; no se imputan."
+}

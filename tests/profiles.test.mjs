@@ -1,0 +1,5 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const data=JSON.parse(fs.readFileSync(new URL('../dist/profiles.json',import.meta.url)));assert.equal(data.profiles.length,20);const ids=new Set(data.profiles.map(p=>p.id));assert.equal(ids.size,20);assert.equal(data.automaticUpdates,false);
+for(const p of data.profiles){assert.equal(Object.keys(p.metrics).length,9);for(const m of Object.values(p.metrics)){assert(m.value===null||Number.isFinite(m.value));assert(/^https:\/\//.test(m.url));assert(m.retrieved<=data.cutoff);if(m.value!==null)assert.notEqual(m.period,'—')}assert(p.assessment.watch.every(id=>ids.has(id)))}
+assert.equal(data.profiles.find(p=>p.id==='PRK').metrics.military.value,null);assert.equal(data.profiles.find(p=>p.id==='TWN').metrics.growth.period,'2026 T2');assert.equal(data.profiles.find(p=>p.id==='USA').metrics.military.value,954);
+console.log('PASS: 20 unique profiles, dated sourced values, missing values preserved, relations resolve, no automatic refresh claim.');

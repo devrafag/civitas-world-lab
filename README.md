@@ -57,3 +57,18 @@ Three.js se distribuye bajo licencia MIT (ver dist/THREE-LICENSE.txt).
 
 ## Interfaz geográfica 0.2
 Globo con territorios seleccionables, coordenadas y capas de confianza y producción simuladas. Ejecutar también `node tests/geography.test.mjs`. Las capas no contienen datos de inteligencia en tiempo real.
+
+## Dossiers de países 0.3
+
+Veinte fichas con un corte documental del 08/09/2026. `dist/profiles.json` mantiene para cada indicador valor, periodo, unidad, fuente, enlace, nota y fecha de consulta. `dist/profiles.js` las muestra sin modificar el motor de simulación ni los datos de partida de 2024 del experimento.
+
+- Economía: Banco Mundial, últimos valores recuperados del intervalo 2024–2025.
+- Defensa: gasto SIPRI 2025; datos de personal de 2020 solo como referencia histórica cuando disponibles. El inventario operativo no se ha evaluado.
+- Taiwán: crecimiento trimestral y desempleo mensual de DGBAS; no se equiparan a cifras anuales.
+- OTAN y tratados Japón/EE. UU. y Corea del Sur/EE. UU.: fuentes institucionales enlazadas.
+- Capacidad nuclear: clasificación SIPRI publicada en junio de 2026.
+- Focos, relaciones a observar y posibles frenos a la escalada: valoración cualitativa explícita, no ranking de enemigos o estimación de guerra.
+
+Las fichas no incluyen alertas de noticias en vivo ni actualización automática. La ausencia de una cifra no se interpreta como cero. El bloque de alianzas es parcial.
+
+Para reconstruir: `python scripts/fetch_profiles.py`, revisar sus mensajes y archivos en `research/`, después `python scripts/build_profiles.py`. SIPRI y DGBAS son transcripciones seleccionadas con fuentes, que requieren revisión humana para nuevos cortes. Ejecutar `node tests/profiles.test.mjs` antes de publicar. Un fallo de descarga no autoriza a atribuir datos viejos a una fecha nueva.
