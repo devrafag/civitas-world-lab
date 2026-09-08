@@ -28,7 +28,7 @@ Comprueban reproducibilidad, aprendizaje, límites numéricos, divergencia de co
 
 ## Datos y límites
 
-Datos de 2024 consultados el 08/09/2026: Banco Mundial, SP.POP.TOTL y NY.GDP.PCAP.CD; metadatos del endpoint country. Licencia CC BY 4.0. 14 economías sin PIB por habitante usan un índice inicial neutro de 50 y muestran dato no disponible. Coordenadas de capital: no se dibujan fronteras. La cobertura no equivale a un listado de estados soberanos.
+Datos de 2024 consultados el 08/09/2026: Banco Mundial, SP.POP.TOTL y NY.GDP.PCAP.CD; metadatos del endpoint country. Licencia CC BY 4.0. 14 economías sin PIB por habitante usan un índice inicial neutro de 50 y muestran dato no disponible. Cartografía Natural Earth 1:110m (177 entidades cartográficas), dominio público: costas y fronteras generalizadas, no una resolución de disputas. Los microestados siguen disponibles por punto/selector. Fuente: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson . La cobertura no equivale a un listado de estados soberanos.
 
 https://data.worldbank.org/indicator/SP.POP.TOTL
 https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
@@ -54,3 +54,6 @@ Proyecto preparado para un repositorio independiente llamado `civitas-world-lab`
 5. Adaptador opcional de decisiones para modelos de lenguaje.
 
 Three.js se distribuye bajo licencia MIT (ver dist/THREE-LICENSE.txt).
+
+## Interfaz geográfica 0.2
+Globo con territorios seleccionables, coordenadas y capas de confianza y producción simuladas. Ejecutar también `node tests/geography.test.mjs`. Las capas no contienen datos de inteligencia en tiempo real.
