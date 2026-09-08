@@ -1,0 +1,36 @@
+name: Update country news
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/update_news.py
+      - .github/workflows/news.yml
+permissions:
+  contents: write
+concurrency:
+  group: country-news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch RSS metadata
+        id: fetch
+        continue-on-error: true
+        run: python3 scripts/update_news.py
+      - name: Record news and source availability
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update news metadata and source status'
+            git push
+          fi
+      - name: Report unavailable sources
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1
