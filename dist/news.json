@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-09-08T13:34:47.427292+00:00",
+  "lastSuccessfulFetch": "2026-09-08T13:34:47.427292+00:00",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "checkedAt": "2026-09-08T13:34:47.427292+00:00",
+      "items": 13
+    },
+    {
+      "name": "Noticias ONU",
+      "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
+      "ok": true,
+      "checkedAt": "2026-09-08T13:34:47.427292+00:00",
+      "items": 3
+    }
+  ],
+  "items": [
+    {
+      "id": "1bed854a7710b625",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T12:23:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "55c1ccf0f8569b20",
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T10:23:01+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6830a4e271824f04",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T03:53:27+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "PRK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "23d5e68a01a76f77",
+      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T01:32:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9ba6ea54020a8383",
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T01:07:47+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dfc306a8f8c1b285",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T00:48:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0030fc805d42ffa4",
+      "title": "A food safety officer has become a social media star in India - why?",
+      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T23:40:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "faf6c20a0b3331e9",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T14:04:01+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aa7629b690e81db1",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T13:39:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aa27a2b1222f7bbf",
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T06:32:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e7354262e6d4e912",
+      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T04:07:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "802b3bc782a05eda",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-06T20:52:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c2a7555f7c9584db",
+      "title": "Germany's far-right AfD celebrate projected win in state election",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-06T18:32:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "972e3464e9e01a1d",
+      "title": "Los repetidos ataques a almacenes humanitarios ponen en riesgo ayuda médica vital en Ucrania",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541868",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-04T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a17c851e1cab4341",
+      "title": "Expertos denuncian 223 personas asesinadas en un año por ataques de Estados Unidos contra embarcaciones",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541856",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-01T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b74eb8b284b6ed9f",
+      "title": "Cientos de muertos y desaparecidos tras devastadoras inundaciones en Nepal y China",
+      "url": "https://news.un.org/feed/view/es/story/2026/08/1541843",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-08-27T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    }
+  ],
+  "notice": "Titulares externos. La mención conjunta de países no implica confrontación. Sin corroboración automática."
+}

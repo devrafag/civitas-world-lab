@@ -72,3 +72,15 @@ Veinte fichas con un corte documental del 08/09/2026. `dist/profiles.json` manti
 Las fichas no incluyen alertas de noticias en vivo ni actualización automática. La ausencia de una cifra no se interpreta como cero. El bloque de alianzas es parcial.
 
 Para reconstruir: `python scripts/fetch_profiles.py`, revisar sus mensajes y archivos en `research/`, después `python scripts/build_profiles.py`. SIPRI y DGBAS son transcripciones seleccionadas con fuentes, que requieren revisión humana para nuevos cortes. Ejecutar `node tests/profiles.test.mjs` antes de publicar. Un fallo de descarga no autoriza a atribuir datos viejos a una fecha nueva.
+
+## Noticias y escenarios 0.4
+
+`Noticias / escenarios` consulta metadatos RSS de BBC News y Noticias ONU. Se muestran titulares con enlace, fuente y fecha de publicación; la fecha del acontecimiento no se infiere. La asociación a países usa palabras del titular y puede omitir artículos relevantes o incluir referencias incidentales. No hay corroboración automática ni lectura del texto completo.
+
+`scripts/update_news.py` conserva hasta 80 registros de los últimos 14 días y registra fallos por fuente. `dist/news.json` es una copia publicada; el navegador intenta leer la última disponible en la rama main de GitHub y recurre a la incluida en el sitio si falla. Consultar última copia no ejecuta el recolector: solo recupera su última salida.
+
+`.github/workflows/news.yml` programa la recogida a las 00:23, 06:23, 12:23 y 18:23 UTC, y permite ejecución manual. Requiere GitHub Actions habilitado y permiso contents:write para guardar solamente `dist/news.json`. Los horarios de Actions pueden retrasarse; siempre manda la fecha mostrada en los datos. El flujo no publica el sitio ni actualiza automáticamente cifras económicas/militares. No necesita claves de IA ni servicios de pago externos.
+
+El panel de escenarios requiere dos países y un supuesto explícito. Genera tres ramas cualitativas con reglas preescritas, consulta vínculos institucionales de las fichas y muestra titulares que mencionan a ambos. No predice guerras, no puntúa enemigos y no altera los agentes del simulador. No es un modelo validado de relaciones internacionales.
+
+Pruebas: `python tests/test_news.py` y `node tests/scenarios.test.mjs`.

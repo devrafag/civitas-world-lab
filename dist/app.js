@@ -1,5 +1,6 @@
 import * as T from './three.module.js';
 import {setupProfiles} from './profiles.js';
+import {setupAnalysis} from './analysis.js';
 import {polygons,unwrap,contains} from './geography.mjs';
 import {createWorld,tick,POLICIES} from './engine.mjs';
 const $=id=>document.getElementById(id),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -47,3 +48,5 @@ try{renderer=new T.WebGLRenderer({canvas:$('globe'),alpha:true,antialias:true});
 render();
 
 setupProfiles({show,getSelected:()=>data[selected].id,onSelect:id=>{const i=data.findIndex(c=>c.id===id);if(i<0)return false;selected=i;$("country").value=i;render();focusCountry();return true}});
+
+setupAnalysis({show,getSelected:()=>data[selected].id});
