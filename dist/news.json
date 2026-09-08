@@ -1,24 +1,120 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-08T13:38:36.225069+00:00",
-  "lastSuccessfulFetch": "2026-09-08T13:38:36.225069+00:00",
+  "checkedAt": "2026-09-08T21:15:40.845958+00:00",
+  "lastSuccessfulFetch": "2026-09-08T21:15:40.845958+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-08T13:38:36.225069+00:00",
-      "items": 13
+      "checkedAt": "2026-09-08T21:15:40.845958+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-08T13:38:36.225069+00:00",
+      "checkedAt": "2026-09-08T21:15:40.845958+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "ef801ad6edc01ee1",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T19:11:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "06721fc20e3d7dad",
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T18:02:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1f8363f251e55e08",
+      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+      "url": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T16:45:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5fb094160000f1e1",
+      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T15:57:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "db38ed9f31bdd538",
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T15:36:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "203719cad118007e",
+      "title": "Hungary expels 10 Russian diplomats as relations worsen",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T14:38:44+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ec59d34a365fa2e7",
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T13:58:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8ecb248bcaa30cf5",
+      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T13:35:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "1bed854a7710b625",
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
