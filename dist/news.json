@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-09T16:46:03.050835+00:00",
-  "lastSuccessfulFetch": "2026-09-09T16:46:03.050835+00:00",
+  "checkedAt": "2026-09-09T21:00:57.745534+00:00",
+  "lastSuccessfulFetch": "2026-09-09T21:00:57.745534+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-09T16:46:03.050835+00:00",
-      "items": 14
+      "checkedAt": "2026-09-09T21:00:57.745534+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-09T16:46:03.050835+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-09-09T21:00:57.745534+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "97248ae77c265670",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T20:22:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "512c97778fe7e115",
       "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
