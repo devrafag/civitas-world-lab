@@ -1,24 +1,85 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-08T21:15:40.845958+00:00",
-  "lastSuccessfulFetch": "2026-09-08T21:15:40.845958+00:00",
+  "checkedAt": "2026-09-09T04:53:38.014121+00:00",
+  "lastSuccessfulFetch": "2026-09-09T04:53:38.014121+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-08T21:15:40.845958+00:00",
-      "items": 15
+      "checkedAt": "2026-09-09T04:53:38.014121+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-08T21:15:40.845958+00:00",
+      "checkedAt": "2026-09-09T04:53:38.014121+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "969d53852a8de09e",
+      "title": "Hong Kong's first leader after British handover dies",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T04:24:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "638ba55228db3bc7",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T03:03:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d39fb1c8e98b002b",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T23:27:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "031db3ea89fe59cb",
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T23:11:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f996cadc78548705",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T21:46:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR",
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "ef801ad6edc01ee1",
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
