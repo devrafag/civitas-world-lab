@@ -1,24 +1,73 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-09T04:53:38.014121+00:00",
-  "lastSuccessfulFetch": "2026-09-09T04:53:38.014121+00:00",
+  "checkedAt": "2026-09-09T11:34:53.270954+00:00",
+  "lastSuccessfulFetch": "2026-09-09T11:34:53.270954+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-09T04:53:38.014121+00:00",
-      "items": 17
+      "checkedAt": "2026-09-09T11:34:53.270954+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-09T04:53:38.014121+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-09T11:34:53.270954+00:00",
+      "items": 2
     }
   ],
   "items": [
+    {
+      "id": "37bf0f7879b136d1",
+      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T10:59:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "067b51133f14d702",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T09:47:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b9e25ad8a1c4d82e",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T08:21:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "KOR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0fc8d78b0b956933",
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T07:44:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "969d53852a8de09e",
       "title": "Hong Kong's first leader after British handover dies",
