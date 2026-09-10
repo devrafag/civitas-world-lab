@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-10T04:54:56.616098+00:00",
-  "lastSuccessfulFetch": "2026-09-10T04:54:56.616098+00:00",
+  "checkedAt": "2026-09-10T11:31:38.792749+00:00",
+  "lastSuccessfulFetch": "2026-09-10T11:31:38.792749+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-10T04:54:56.616098+00:00",
-      "items": 16
+      "checkedAt": "2026-09-10T11:31:38.792749+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-10T04:54:56.616098+00:00",
+      "checkedAt": "2026-09-10T11:31:38.792749+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "def365b933ba1126",
+      "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-10T10:59:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "38c49032c563ac41",
       "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
@@ -69,6 +81,18 @@
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
     {
+      "id": "d7bed912c79cdfe8",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T21:21:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
       "id": "97248ae77c265670",
       "title": "Iran referred to UN Security Council for nuclear non-compliance",
       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
@@ -77,6 +101,18 @@
       "eventDate": null,
       "countries": [
         "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "15cf6ed992a361ca",
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T19:09:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
