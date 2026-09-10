@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-10T16:32:26.081044+00:00",
-  "lastSuccessfulFetch": "2026-09-10T16:32:26.081044+00:00",
+  "checkedAt": "2026-09-10T20:58:13.567082+00:00",
+  "lastSuccessfulFetch": "2026-09-10T20:58:13.567082+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-10T16:32:26.081044+00:00",
+      "checkedAt": "2026-09-10T20:58:13.567082+00:00",
       "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-10T16:32:26.081044+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-09-10T20:58:13.567082+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "ddb7afc5ed749aa1",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-10T20:10:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e196e6533e5a286b",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-10T15:54:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "def365b933ba1126",
       "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
