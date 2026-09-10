@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-10T11:31:38.792749+00:00",
-  "lastSuccessfulFetch": "2026-09-10T11:31:38.792749+00:00",
+  "checkedAt": "2026-09-10T16:32:26.081044+00:00",
+  "lastSuccessfulFetch": "2026-09-10T16:32:26.081044+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-10T11:31:38.792749+00:00",
+      "checkedAt": "2026-09-10T16:32:26.081044+00:00",
       "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-10T11:31:38.792749+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-10T16:32:26.081044+00:00",
+      "items": 2
     }
   ],
   "items": [
@@ -513,18 +513,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b74eb8b284b6ed9f",
-      "title": "Cientos de muertos y desaparecidos tras devastadoras inundaciones en Nepal y China",
-      "url": "https://news.un.org/feed/view/es/story/2026/08/1541843",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-08-27T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
