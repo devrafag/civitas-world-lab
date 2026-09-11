@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-11T04:51:48.851090+00:00",
-  "lastSuccessfulFetch": "2026-09-11T04:51:48.851090+00:00",
+  "checkedAt": "2026-09-11T11:33:17.122717+00:00",
+  "lastSuccessfulFetch": "2026-09-11T11:33:17.122717+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-11T04:51:48.851090+00:00",
-      "items": 7
+      "checkedAt": "2026-09-11T11:33:17.122717+00:00",
+      "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-11T04:51:48.851090+00:00",
+      "checkedAt": "2026-09-11T11:33:17.122717+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "e580212fc3b0f7bf",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T09:54:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "26fc3a2438d69071",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T00:27:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e3bab1334cab99fb",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-10T23:22:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "ddb7afc5ed749aa1",
       "title": "Man jailed after threatening to kill son's teacher in French village",
