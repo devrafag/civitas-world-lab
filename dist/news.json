@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-11T11:33:17.122717+00:00",
-  "lastSuccessfulFetch": "2026-09-11T11:33:17.122717+00:00",
+  "checkedAt": "2026-09-11T16:36:54.238277+00:00",
+  "lastSuccessfulFetch": "2026-09-11T16:36:54.238277+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-11T11:33:17.122717+00:00",
-      "items": 5
+      "checkedAt": "2026-09-11T16:36:54.238277+00:00",
+      "items": 6
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-11T11:33:17.122717+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-11T16:36:54.238277+00:00",
+      "items": 3
     }
   ],
   "items": [
+    {
+      "id": "580f76d318f39f9e",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T15:50:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e580212fc3b0f7bf",
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
@@ -77,6 +89,18 @@
       "eventDate": null,
       "countries": [
         "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "da014d60d389163d",
+      "title": "Irán/Nuclear: la batalla por las sanciones continúa en el Consejo de Seguridad",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541892",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-10T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
