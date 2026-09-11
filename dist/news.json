@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-11T16:36:54.238277+00:00",
-  "lastSuccessfulFetch": "2026-09-11T16:36:54.238277+00:00",
+  "checkedAt": "2026-09-11T21:03:54.440371+00:00",
+  "lastSuccessfulFetch": "2026-09-11T21:03:54.440371+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-11T16:36:54.238277+00:00",
-      "items": 6
+      "checkedAt": "2026-09-11T21:03:54.440371+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-11T16:36:54.238277+00:00",
-      "items": 3
+      "checkedAt": "2026-09-11T21:03:54.440371+00:00",
+      "items": 2
     }
   ],
   "items": [
+    {
+      "id": "53f9dccf3e6c28f4",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T19:44:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "580f76d318f39f9e",
       "title": "Israel says it has destroyed major underground Hezbollah base",
