@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-12T15:38:01.851508+00:00",
-  "lastSuccessfulFetch": "2026-09-12T15:38:01.851508+00:00",
+  "checkedAt": "2026-09-12T20:40:27.611098+00:00",
+  "lastSuccessfulFetch": "2026-09-12T20:40:27.611098+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T15:38:01.851508+00:00",
-      "items": 6
+      "checkedAt": "2026-09-12T20:40:27.611098+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T15:38:01.851508+00:00",
+      "checkedAt": "2026-09-12T20:40:27.611098+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "614173fef602f21c",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T20:27:25+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e6ed1f3983b73403",
       "title": "French officials investigate if malicious act caused train derailment",
