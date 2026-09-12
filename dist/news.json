@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-12T10:57:20.934946+00:00",
-  "lastSuccessfulFetch": "2026-09-12T10:57:20.934946+00:00",
+  "checkedAt": "2026-09-12T15:38:01.851508+00:00",
+  "lastSuccessfulFetch": "2026-09-12T15:38:01.851508+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T10:57:20.934946+00:00",
-      "items": 5
+      "checkedAt": "2026-09-12T15:38:01.851508+00:00",
+      "items": 6
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-12T10:57:20.934946+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-12T15:38:01.851508+00:00",
+      "items": 2
     }
   ],
   "items": [
+    {
+      "id": "e6ed1f3983b73403",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T15:05:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0728ac7e390092c8",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T13:00:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "6e693e74f1ef32eb",
       "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
