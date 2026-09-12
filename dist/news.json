@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-12T04:44:51.351032+00:00",
-  "lastSuccessfulFetch": "2026-09-12T04:44:51.351032+00:00",
+  "checkedAt": "2026-09-12T10:57:20.934946+00:00",
+  "lastSuccessfulFetch": "2026-09-12T10:57:20.934946+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T04:44:51.351032+00:00",
-      "items": 7
+      "checkedAt": "2026-09-12T10:57:20.934946+00:00",
+      "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-12T04:44:51.351032+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-09-12T10:57:20.934946+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "6e693e74f1ef32eb",
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T08:04:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ca25ba01e0eaa90f",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T05:55:15+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8c61ee59a26eb869",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T04:43:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "7f16c3464a2172ba",
       "title": "Passenger train derails in France leaving at least 44 injured",
