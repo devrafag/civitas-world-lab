@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-13T16:27:48.958905+00:00",
-  "lastSuccessfulFetch": "2026-09-13T16:27:48.958905+00:00",
+  "checkedAt": "2026-09-13T20:56:52.166530+00:00",
+  "lastSuccessfulFetch": "2026-09-13T20:56:52.166530+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-13T16:27:48.958905+00:00",
-      "items": 7
+      "checkedAt": "2026-09-13T20:56:52.166530+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-13T16:27:48.958905+00:00",
+      "checkedAt": "2026-09-13T20:56:52.166530+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "405af91616a2d21a",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T18:49:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "07caa1f4f90135d9",
       "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
