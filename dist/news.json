@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-13T04:58:41.508071+00:00",
-  "lastSuccessfulFetch": "2026-09-13T04:58:41.508071+00:00",
+  "checkedAt": "2026-09-13T12:05:20.395962+00:00",
+  "lastSuccessfulFetch": "2026-09-13T12:05:20.395962+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-13T04:58:41.508071+00:00",
-      "items": 8
+      "checkedAt": "2026-09-13T12:05:20.395962+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-13T04:58:41.508071+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-09-13T12:05:20.395962+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "5f1ec3a254f68b9e",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T11:23:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "397468e97198a891",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T23:51:05+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "518333e5fa889f9d",
       "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
