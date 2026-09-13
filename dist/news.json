@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-12T20:40:27.611098+00:00",
-  "lastSuccessfulFetch": "2026-09-12T20:40:27.611098+00:00",
+  "checkedAt": "2026-09-13T04:58:41.508071+00:00",
+  "lastSuccessfulFetch": "2026-09-13T04:58:41.508071+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T20:40:27.611098+00:00",
-      "items": 7
+      "checkedAt": "2026-09-13T04:58:41.508071+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-12T20:40:27.611098+00:00",
+      "checkedAt": "2026-09-13T04:58:41.508071+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "518333e5fa889f9d",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T21:19:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "614173fef602f21c",
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
