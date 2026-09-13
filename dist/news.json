@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-13T12:05:20.395962+00:00",
-  "lastSuccessfulFetch": "2026-09-13T12:05:20.395962+00:00",
+  "checkedAt": "2026-09-13T16:27:48.958905+00:00",
+  "lastSuccessfulFetch": "2026-09-13T16:27:48.958905+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-13T12:05:20.395962+00:00",
+      "checkedAt": "2026-09-13T16:27:48.958905+00:00",
       "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-13T12:05:20.395962+00:00",
+      "checkedAt": "2026-09-13T16:27:48.958905+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "07caa1f4f90135d9",
+      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T16:05:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d38654bd92b18893",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T15:30:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "accc21ab10abd85c",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-13T14:25:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "5f1ec3a254f68b9e",
       "title": "Iran war reshapes Brics ties but also exposes divisions",
