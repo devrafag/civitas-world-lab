@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-14T13:02:55.296958+00:00",
-  "lastSuccessfulFetch": "2026-09-14T13:02:55.296958+00:00",
+  "checkedAt": "2026-09-14T21:55:03.480257+00:00",
+  "lastSuccessfulFetch": "2026-09-14T21:55:03.480257+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-14T13:02:55.296958+00:00",
+      "checkedAt": "2026-09-14T21:55:03.480257+00:00",
       "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-14T13:02:55.296958+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-14T21:55:03.480257+00:00",
+      "items": 3
     }
   ],
   "items": [
+    {
+      "id": "6aeb9cc0e374bd4c",
+      "title": "Estados Unidos debe proteger a las presas de la violencia sexual, según una experta de la ONU",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541898",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-14T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "49139d83bc01d4e6",
       "title": "China criticises idea it is in 'malicious competition' over AI",
