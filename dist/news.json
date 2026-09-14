@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-14T05:07:56.328318+00:00",
-  "lastSuccessfulFetch": "2026-09-14T05:07:56.328318+00:00",
+  "checkedAt": "2026-09-14T13:02:55.296958+00:00",
+  "lastSuccessfulFetch": "2026-09-14T13:02:55.296958+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-14T05:07:56.328318+00:00",
-      "items": 7
+      "checkedAt": "2026-09-14T13:02:55.296958+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-14T05:07:56.328318+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-09-14T13:02:55.296958+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "49139d83bc01d4e6",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-14T11:31:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0da4ddda09b1b11f",
+      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-14T01:12:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "405af91616a2d21a",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
