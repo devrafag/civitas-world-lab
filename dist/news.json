@@ -1,24 +1,73 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-15T11:53:42.854840+00:00",
-  "lastSuccessfulFetch": "2026-09-15T11:53:42.854840+00:00",
+  "checkedAt": "2026-09-15T17:08:29.146986+00:00",
+  "lastSuccessfulFetch": "2026-09-15T17:08:29.146986+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-15T11:53:42.854840+00:00",
-      "items": 8
+      "checkedAt": "2026-09-15T17:08:29.146986+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-15T11:53:42.854840+00:00",
+      "checkedAt": "2026-09-15T17:08:29.146986+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "a05aac70dcd19dc3",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T15:31:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b4161fc2105a135f",
+      "title": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T15:03:27+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b4384c7c887c6bf8",
+      "title": "What weapon could the US have put into space?",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T14:23:14+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "39bfd5ec2941e8df",
+      "title": "More than 100,000 people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T13:43:15+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "4035bf867ed03b43",
       "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -902,18 +951,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a17c851e1cab4341",
-      "title": "Expertos denuncian 223 personas asesinadas en un año por ataques de Estados Unidos contra embarcaciones",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541856",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-01T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
