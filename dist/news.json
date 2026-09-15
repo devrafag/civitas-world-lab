@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-15T05:03:46.840703+00:00",
-  "lastSuccessfulFetch": "2026-09-15T05:03:46.840703+00:00",
+  "checkedAt": "2026-09-15T11:53:42.854840+00:00",
+  "lastSuccessfulFetch": "2026-09-15T11:53:42.854840+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-15T05:03:46.840703+00:00",
+      "checkedAt": "2026-09-15T11:53:42.854840+00:00",
       "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-15T05:03:46.840703+00:00",
+      "checkedAt": "2026-09-15T11:53:42.854840+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "4035bf867ed03b43",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T11:40:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "cb561e4a3fc4a585",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-15T05:01:46+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "002852cc3e525763",
       "title": "China tightens travel restrictions for citizens",
