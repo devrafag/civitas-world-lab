@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-16T04:58:34.198828+00:00",
-  "lastSuccessfulFetch": "2026-09-16T04:58:34.198828+00:00",
+  "checkedAt": "2026-09-16T11:49:22.932829+00:00",
+  "lastSuccessfulFetch": "2026-09-16T11:49:22.932829+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T04:58:34.198828+00:00",
-      "items": 10
+      "checkedAt": "2026-09-16T11:49:22.932829+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T04:58:34.198828+00:00",
+      "checkedAt": "2026-09-16T11:49:22.932829+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "4fad8986e21b09f0",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T08:36:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3c4fdf1e0c459c9e",
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T06:12:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "10372e66d638a672",
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -962,30 +986,6 @@
       "eventDate": null,
       "countries": [
         "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c2a7555f7c9584db",
-      "title": "Germany's far-right AfD celebrate projected win in state election",
-      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-06T18:32:53+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "972e3464e9e01a1d",
-      "title": "Los repetidos ataques a almacenes humanitarios ponen en riesgo ayuda médica vital en Ucrania",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541868",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-04T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
         "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
