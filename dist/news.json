@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-16T17:08:32.808460+00:00",
-  "lastSuccessfulFetch": "2026-09-16T17:08:32.808460+00:00",
+  "checkedAt": "2026-09-16T21:26:21.007998+00:00",
+  "lastSuccessfulFetch": "2026-09-16T21:26:21.007998+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T17:08:32.808460+00:00",
-      "items": 9
+      "checkedAt": "2026-09-16T21:26:21.007998+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-16T17:08:32.808460+00:00",
-      "items": 4
+      "ok": false,
+      "checkedAt": "2026-09-16T21:26:21.007998+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "612035abe7bdae42",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T21:02:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2fe3dd513d861ff3",
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T19:59:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8708e9aed58480c0",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T18:36:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "1f2a8bd4c71ebc7b",
       "title": "Eight German state premiers back Merz amid speculation over future",
@@ -952,42 +989,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "faf6c20a0b3331e9",
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T14:04:01+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "aa7629b690e81db1",
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T13:39:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "aa27a2b1222f7bbf",
-      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T06:32:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
