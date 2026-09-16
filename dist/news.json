@@ -1,24 +1,50 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-16T11:49:22.932829+00:00",
-  "lastSuccessfulFetch": "2026-09-16T11:49:22.932829+00:00",
+  "checkedAt": "2026-09-16T17:08:32.808460+00:00",
+  "lastSuccessfulFetch": "2026-09-16T17:08:32.808460+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T11:49:22.932829+00:00",
+      "checkedAt": "2026-09-16T17:08:32.808460+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T11:49:22.932829+00:00",
+      "checkedAt": "2026-09-16T17:08:32.808460+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "1f2a8bd4c71ebc7b",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T14:50:26+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5d4590b7f40bfddf",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T12:26:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "4fad8986e21b09f0",
       "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
@@ -962,31 +988,6 @@
       "eventDate": null,
       "countries": [
         "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e7354262e6d4e912",
-      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T04:07:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "802b3bc782a05eda",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-06T20:52:12+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
