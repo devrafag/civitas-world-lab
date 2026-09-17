@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-16T21:26:21.007998+00:00",
-  "lastSuccessfulFetch": "2026-09-16T21:26:21.007998+00:00",
+  "checkedAt": "2026-09-17T05:01:16.540043+00:00",
+  "lastSuccessfulFetch": "2026-09-17T05:01:16.540043+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-16T21:26:21.007998+00:00",
-      "items": 11
+      "checkedAt": "2026-09-17T05:01:16.540043+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-16T21:26:21.007998+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-17T05:01:16.540043+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "3b1fd99596f34aed",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-16T21:24:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "612035abe7bdae42",
       "title": "US interest rates raised for first time in three years",
@@ -977,18 +989,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0030fc805d42ffa4",
-      "title": "A food safety officer has become a social media star in India - why?",
-      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T23:40:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
