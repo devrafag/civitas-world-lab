@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-17T11:52:43.211119+00:00",
-  "lastSuccessfulFetch": "2026-09-17T11:52:43.211119+00:00",
+  "checkedAt": "2026-09-17T17:09:05.431679+00:00",
+  "lastSuccessfulFetch": "2026-09-17T17:09:05.431679+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-17T11:52:43.211119+00:00",
-      "items": 15
+      "checkedAt": "2026-09-17T17:09:05.431679+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-17T11:52:43.211119+00:00",
-      "items": 4
+      "ok": false,
+      "checkedAt": "2026-09-17T17:09:05.431679+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "71e53ab0fb142f2d",
+      "title": "Klopp wants to 'reclaim' flag amid German elections",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-17T13:02:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "add5c3d5fdddee6d",
       "title": "India faces 100% tariff threat over Russian oil after US House vote",
@@ -978,19 +990,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6830a4e271824f04",
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T03:53:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "PRK"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
