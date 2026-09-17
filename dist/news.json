@@ -1,24 +1,62 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-17T05:01:16.540043+00:00",
-  "lastSuccessfulFetch": "2026-09-17T05:01:16.540043+00:00",
+  "checkedAt": "2026-09-17T11:52:43.211119+00:00",
+  "lastSuccessfulFetch": "2026-09-17T11:52:43.211119+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-17T05:01:16.540043+00:00",
-      "items": 12
+      "checkedAt": "2026-09-17T11:52:43.211119+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-17T05:01:16.540043+00:00",
+      "checkedAt": "2026-09-17T11:52:43.211119+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "add5c3d5fdddee6d",
+      "title": "India faces 100% tariff threat over Russian oil after US House vote",
+      "url": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-17T05:33:29+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e544f8787801cb21",
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-17T05:00:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "29f491d4e3dbcc63",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-17T05:00:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "3b1fd99596f34aed",
       "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
@@ -953,42 +991,6 @@
       "countries": [
         "RUS",
         "PRK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "23d5e68a01a76f77",
-      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T01:32:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9ba6ea54020a8383",
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T01:07:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "dfc306a8f8c1b285",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T00:48:43+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
