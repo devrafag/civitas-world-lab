@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-18T16:33:35.462705+00:00",
-  "lastSuccessfulFetch": "2026-09-18T16:33:35.462705+00:00",
+  "checkedAt": "2026-09-18T21:00:11.616815+00:00",
+  "lastSuccessfulFetch": "2026-09-18T21:00:11.616815+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T16:33:35.462705+00:00",
-      "items": 11
+      "checkedAt": "2026-09-18T21:00:11.616815+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T16:33:35.462705+00:00",
-      "items": 6
+      "checkedAt": "2026-09-18T21:00:11.616815+00:00",
+      "items": 7
     }
   ],
   "items": [
+    {
+      "id": "fb865641efa4f735",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T17:57:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "019c5f3fc425b30a",
+      "title": "North Korean anthem played for South Korea at Asian Games",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T17:18:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "KOR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "83e9529895aebe46",
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
@@ -28,6 +52,18 @@
       "eventDate": null,
       "countries": [
         "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3092d103eb5e2d10",
+      "title": "Ucrania, Gaza, brecha salarial, Perú… Las noticias del viernes",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541926",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-18T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -958,43 +994,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d39fb1c8e98b002b",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T23:27:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "031db3ea89fe59cb",
-      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T23:11:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f996cadc78548705",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T21:46:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR",
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
