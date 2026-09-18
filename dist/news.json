@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-18T04:54:05.484313+00:00",
-  "lastSuccessfulFetch": "2026-09-18T04:54:05.484313+00:00",
+  "checkedAt": "2026-09-18T11:28:37.579108+00:00",
+  "lastSuccessfulFetch": "2026-09-18T11:28:37.579108+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T04:54:05.484313+00:00",
-      "items": 17
+      "checkedAt": "2026-09-18T11:28:37.579108+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T04:54:05.484313+00:00",
+      "checkedAt": "2026-09-18T11:28:37.579108+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "00b4c6ceffe43db1",
+      "title": "At least 16 killed in attack on mosque in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T10:39:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "df3d64fa58b60d38",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T07:14:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4d77763678438396",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T01:31:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "bdc19c333ddfadfa",
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -958,42 +995,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "06721fc20e3d7dad",
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T18:02:42+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1f8363f251e55e08",
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "url": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T16:45:32+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5fb094160000f1e1",
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T15:57:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
