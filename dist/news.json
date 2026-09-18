@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-18T11:28:37.579108+00:00",
-  "lastSuccessfulFetch": "2026-09-18T11:28:37.579108+00:00",
+  "checkedAt": "2026-09-18T16:33:35.462705+00:00",
+  "lastSuccessfulFetch": "2026-09-18T16:33:35.462705+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T11:28:37.579108+00:00",
-      "items": 12
+      "checkedAt": "2026-09-18T16:33:35.462705+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-18T11:28:37.579108+00:00",
+      "checkedAt": "2026-09-18T16:33:35.462705+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "83e9529895aebe46",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T15:14:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "00b4c6ceffe43db1",
       "title": "At least 16 killed in attack on mosque in Pakistan",
@@ -982,18 +994,6 @@
       "eventDate": null,
       "countries": [
         "GBR",
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ef801ad6edc01ee1",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-08T19:11:39+00:00",
-      "eventDate": null,
-      "countries": [
         "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
