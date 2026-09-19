@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T15:57:20.399401+00:00",
-  "lastSuccessfulFetch": "2026-09-19T15:57:20.399401+00:00",
+  "checkedAt": "2026-09-19T20:50:27.634068+00:00",
+  "lastSuccessfulFetch": "2026-09-19T20:50:27.634068+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-19T15:57:20.399401+00:00",
+      "checkedAt": "2026-09-19T20:50:27.634068+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-19T15:57:20.399401+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-19T20:50:27.634068+00:00",
+      "items": 7
     }
   ],
   "items": [
+    {
+      "id": "cf8b44c111b06306",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T20:16:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "c62df2e852672669",
       "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
@@ -981,19 +993,6 @@
       "eventDate": null,
       "countries": [
         "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "37bf0f7879b136d1",
-      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T10:59:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
