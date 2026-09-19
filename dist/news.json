@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T04:45:50.273756+00:00",
-  "lastSuccessfulFetch": "2026-09-19T04:45:50.273756+00:00",
+  "checkedAt": "2026-09-19T11:12:17.704429+00:00",
+  "lastSuccessfulFetch": "2026-09-19T11:12:17.704429+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-19T04:45:50.273756+00:00",
-      "items": 8
+      "checkedAt": "2026-09-19T11:12:17.704429+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-19T04:45:50.273756+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-19T11:12:17.704429+00:00",
+      "items": 7
     }
   ],
   "items": [
@@ -64,6 +64,18 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "78d2bea860ff396b",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-18T22:05:47+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -982,18 +994,6 @@
       "countries": [
         "RUS",
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "067b51133f14d702",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T09:47:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
