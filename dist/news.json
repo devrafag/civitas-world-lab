@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-20T05:02:16.450887+00:00",
-  "lastSuccessfulFetch": "2026-09-20T05:02:16.450887+00:00",
+  "checkedAt": "2026-09-20T11:36:49.443207+00:00",
+  "lastSuccessfulFetch": "2026-09-20T11:36:49.443207+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-20T05:02:16.450887+00:00",
+      "checkedAt": "2026-09-20T11:36:49.443207+00:00",
       "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-20T05:02:16.450887+00:00",
+      "checkedAt": "2026-09-20T11:36:49.443207+00:00",
       "items": 7
     }
   ],
   "items": [
+    {
+      "id": "ad9e995a839bf16f",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-20T10:45:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b3f0dc8693371ca7",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-20T07:57:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "16d2a023660b232a",
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
@@ -969,30 +993,6 @@
       "eventDate": null,
       "countries": [
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d7bed912c79cdfe8",
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T21:21:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "97248ae77c265670",
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T20:22:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
