@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-19T20:50:27.634068+00:00",
-  "lastSuccessfulFetch": "2026-09-19T20:50:27.634068+00:00",
+  "checkedAt": "2026-09-20T05:02:16.450887+00:00",
+  "lastSuccessfulFetch": "2026-09-20T05:02:16.450887+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-19T20:50:27.634068+00:00",
-      "items": 9
+      "checkedAt": "2026-09-20T05:02:16.450887+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-19T20:50:27.634068+00:00",
+      "checkedAt": "2026-09-20T05:02:16.450887+00:00",
       "items": 7
     }
   ],
   "items": [
+    {
+      "id": "16d2a023660b232a",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T23:18:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9403c5d7646ebe73",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T21:01:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cf8b44c111b06306",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -969,30 +993,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "15cf6ed992a361ca",
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T19:09:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "512c97778fe7e115",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-09T13:29:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
