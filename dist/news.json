@@ -1,24 +1,84 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T13:01:27.567648+00:00",
-  "lastSuccessfulFetch": "2026-09-21T13:01:27.567648+00:00",
+  "checkedAt": "2026-09-21T22:03:21.750226+00:00",
+  "lastSuccessfulFetch": "2026-09-21T22:03:21.750226+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T13:01:27.567648+00:00",
-      "items": 11
+      "checkedAt": "2026-09-21T22:03:21.750226+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T13:01:27.567648+00:00",
-      "items": 7
+      "checkedAt": "2026-09-21T22:03:21.750226+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "acbeb50af663ca4e",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T20:26:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e035c621630bbf31",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T16:54:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7052dc33ef86bd2a",
+      "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T16:52:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c8e7aa74cf622649",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T14:14:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "93c4e6486c69bcad",
+      "title": "Merz's political crisis threatens Germany's obsession with stability",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T13:30:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "5708f274c5144bb0",
       "title": "British Museum bans visitors from photographing Bayeux Tapestry",
@@ -932,67 +992,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "580f76d318f39f9e",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-11T15:50:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e580212fc3b0f7bf",
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-11T09:54:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "26fc3a2438d69071",
-      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
-      "url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-11T00:27:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e3bab1334cab99fb",
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T23:22:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ddb7afc5ed749aa1",
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T20:10:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
