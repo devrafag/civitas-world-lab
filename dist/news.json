@@ -1,24 +1,85 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T05:08:49.443259+00:00",
-  "lastSuccessfulFetch": "2026-09-21T05:08:49.443259+00:00",
+  "checkedAt": "2026-09-21T13:01:27.567648+00:00",
+  "lastSuccessfulFetch": "2026-09-21T13:01:27.567648+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T05:08:49.443259+00:00",
-      "items": 9
+      "checkedAt": "2026-09-21T13:01:27.567648+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T05:08:49.443259+00:00",
+      "checkedAt": "2026-09-21T13:01:27.567648+00:00",
       "items": 7
     }
   ],
   "items": [
+    {
+      "id": "5708f274c5144bb0",
+      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
+      "url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T12:21:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "15afdceaa225b570",
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T12:08:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ef3433f590e5b670",
+      "title": "'No surprises' as results emerge in Russian parliamentary election",
+      "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T06:58:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b7dee4be8463359f",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T05:50:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "467ae22844648496",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T00:05:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "313473f6a5135e70",
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
@@ -932,67 +993,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e196e6533e5a286b",
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T15:54:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "da014d60d389163d",
-      "title": "Irán/Nuclear: la batalla por las sanciones continúa en el Consejo de Seguridad",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541892",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-10T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "def365b933ba1126",
-      "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T10:59:22+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "38c49032c563ac41",
-      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T04:43:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f3cb81d5a80eef82",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-10T04:21:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
