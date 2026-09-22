@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-22T11:51:22.349510+00:00",
-  "lastSuccessfulFetch": "2026-09-22T11:51:22.349510+00:00",
+  "checkedAt": "2026-09-22T17:03:59.274244+00:00",
+  "lastSuccessfulFetch": "2026-09-22T17:03:59.274244+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-22T11:51:22.349510+00:00",
-      "items": 14
+      "checkedAt": "2026-09-22T17:03:59.274244+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-22T11:51:22.349510+00:00",
-      "items": 7
+      "ok": false,
+      "checkedAt": "2026-09-22T17:03:59.274244+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "6addf72af2ca3baa",
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T14:23:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "85ebd3f9d7054e1b",
       "title": "British man missing after diving into Lake Como to rescue teenager",
@@ -978,19 +990,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "614173fef602f21c",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-12T20:27:25+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
