@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-21T22:03:21.750226+00:00",
-  "lastSuccessfulFetch": "2026-09-21T22:03:21.750226+00:00",
+  "checkedAt": "2026-09-22T05:09:23.132583+00:00",
+  "lastSuccessfulFetch": "2026-09-22T05:09:23.132583+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T22:03:21.750226+00:00",
+      "checkedAt": "2026-09-22T05:09:23.132583+00:00",
       "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-21T22:03:21.750226+00:00",
-      "items": 6
+      "checkedAt": "2026-09-22T05:09:23.132583+00:00",
+      "items": 7
     }
   ],
   "items": [
@@ -100,6 +100,18 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "083411ba9f356c0c",
+      "title": "Inteligencia artificial, Nicaragua, Ucrania, Sudán… Las noticias del lunes",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541937",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -980,18 +992,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "53f9dccf3e6c28f4",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-11T19:44:58+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
