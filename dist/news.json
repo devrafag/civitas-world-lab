@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-23T04:54:06.878799+00:00",
-  "lastSuccessfulFetch": "2026-09-23T04:54:06.878799+00:00",
+  "checkedAt": "2026-09-23T11:50:51.580701+00:00",
+  "lastSuccessfulFetch": "2026-09-23T11:50:51.580701+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T04:54:06.878799+00:00",
-      "items": 9
+      "checkedAt": "2026-09-23T11:50:51.580701+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-23T04:54:06.878799+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-23T11:50:51.580701+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "6c8bc7fef5320e22",
+      "title": "What's at stake when Trump and Xi meet in the US?",
+      "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T11:00:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b0c6a040cc34d454",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T09:48:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0f2aa42397f1237e",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T06:12:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d5298c203a11d4d7",
       "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
@@ -40,6 +77,30 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a8ba1405a8aaf3d1",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T22:04:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "758c489d1cf9d19d",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T22:03:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -931,67 +992,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6aeb9cc0e374bd4c",
-      "title": "Estados Unidos debe proteger a las presas de la violencia sexual, según una experta de la ONU",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541898",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-14T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "49139d83bc01d4e6",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-14T11:31:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0da4ddda09b1b11f",
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-14T01:12:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "405af91616a2d21a",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T18:49:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "07caa1f4f90135d9",
-      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T16:05:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
