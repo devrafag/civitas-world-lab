@@ -1,24 +1,96 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-23T11:50:51.580701+00:00",
-  "lastSuccessfulFetch": "2026-09-23T11:50:51.580701+00:00",
+  "checkedAt": "2026-09-23T17:15:25.369069+00:00",
+  "lastSuccessfulFetch": "2026-09-23T17:15:25.369069+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T11:50:51.580701+00:00",
-      "items": 11
+      "checkedAt": "2026-09-23T17:15:25.369069+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T11:50:51.580701+00:00",
-      "items": 5
+      "checkedAt": "2026-09-23T17:15:25.369069+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "4dcb53e3691638b9",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T15:58:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a23a4287ae535987",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T15:37:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "804cbed7a85c2bd3",
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T14:32:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c89a7e14aca1783b",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T12:31:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b7e58b5f1e5883b5",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T12:01:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7c6b4a5d3f5327ba",
+      "title": "Irán denuncia las dos varas de medir internacionales",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541949",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-23T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "6c8bc7fef5320e22",
       "title": "What's at stake when Trump and Xi meet in the US?",
@@ -151,6 +223,19 @@
       "eventDate": null,
       "countries": [
         "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a54e9b86abf22699",
+      "title": "Estados Unidos: Trump amenaza con aniquilar a Irán y usar la fuerza en Latinoamérica",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541947",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-22T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -907,91 +992,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cb561e4a3fc4a585",
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T05:01:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "002852cc3e525763",
-      "title": "China tightens travel restrictions for citizens",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T03:25:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "83755fbb4741bfba",
-      "title": "US confirms for first time it has deployed space weapons",
-      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T01:52:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d91d15f8ed6f35c1",
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-14T22:04:14+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ba252d26865a855e",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-14T18:26:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5086b4018209f8fe",
-      "title": "Piden detener las hostilidades tras ataques estadounidenses contra civiles en Irán",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541904",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-14T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2b159b155814e78c",
-      "title": "Inteligencia artificial, remesas, Irán, expertos de la ONU… Las noticias del lunes",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541900",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-14T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
