@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-22T21:29:06.998407+00:00",
-  "lastSuccessfulFetch": "2026-09-22T21:29:06.998407+00:00",
+  "checkedAt": "2026-09-23T04:54:06.878799+00:00",
+  "lastSuccessfulFetch": "2026-09-23T04:54:06.878799+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-22T21:29:06.998407+00:00",
+      "checkedAt": "2026-09-23T04:54:06.878799+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-22T21:29:06.998407+00:00",
+      "checkedAt": "2026-09-23T04:54:06.878799+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "d5298c203a11d4d7",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T02:57:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a9db91f60d544c08",
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T23:36:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "a0d4c8b969aca2a6",
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
@@ -968,30 +992,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d38654bd92b18893",
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T15:30:43+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "accc21ab10abd85c",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-13T14:25:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "TUR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
