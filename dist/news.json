@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-23T17:15:25.369069+00:00",
-  "lastSuccessfulFetch": "2026-09-23T17:15:25.369069+00:00",
+  "checkedAt": "2026-09-23T21:35:48.321485+00:00",
+  "lastSuccessfulFetch": "2026-09-23T21:35:48.321485+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T17:15:25.369069+00:00",
-      "items": 13
+      "checkedAt": "2026-09-23T21:35:48.321485+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T17:15:25.369069+00:00",
+      "checkedAt": "2026-09-23T21:35:48.321485+00:00",
       "items": 6
     }
   ],
@@ -76,6 +76,18 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7ec0b2aff0775b0a",
+      "title": "Argentina: Milei reclama al Reino Unido retomar las negociaciones sobre las Malvinas",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541952",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-23T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -980,18 +992,6 @@
       "eventDate": null,
       "countries": [
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4035bf867ed03b43",
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T11:40:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
