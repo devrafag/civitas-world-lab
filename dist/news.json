@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-23T21:35:48.321485+00:00",
-  "lastSuccessfulFetch": "2026-09-23T21:35:48.321485+00:00",
+  "checkedAt": "2026-09-24T05:03:37.933924+00:00",
+  "lastSuccessfulFetch": "2026-09-24T05:03:37.933924+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T21:35:48.321485+00:00",
-      "items": 10
+      "checkedAt": "2026-09-24T05:03:37.933924+00:00",
+      "items": 6
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-23T21:35:48.321485+00:00",
-      "items": 6
+      "checkedAt": "2026-09-24T05:03:37.933924+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "d88ace1b87547d73",
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T23:58:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "4dcb53e3691638b9",
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -75,6 +87,19 @@
       "publishedAt": "2026-09-23T12:01:37+00:00",
       "eventDate": null,
       "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "60dc38440b6849c6",
+      "title": "Zelenskyy pide aumentar la presión sobre Rusia y afirma que la guerra se extiende más allá de Ucrania",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541957",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-23T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
         "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
@@ -968,30 +993,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b545a534f2723ad7",
-      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T14:21:14+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "39bfd5ec2941e8df",
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T13:43:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
