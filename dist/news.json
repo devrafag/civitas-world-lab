@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-24T11:58:18.563552+00:00",
-  "lastSuccessfulFetch": "2026-09-24T11:58:18.563552+00:00",
+  "checkedAt": "2026-09-24T17:20:54.864211+00:00",
+  "lastSuccessfulFetch": "2026-09-24T17:20:54.864211+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-24T11:58:18.563552+00:00",
+      "checkedAt": "2026-09-24T17:20:54.864211+00:00",
       "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-24T11:58:18.563552+00:00",
+      "checkedAt": "2026-09-24T17:20:54.864211+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "4869940429368912",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T14:37:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "923ffca2a455a278",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
@@ -979,18 +991,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-09-16T06:12:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "10372e66d638a672",
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T21:07:13+00:00",
       "eventDate": null,
       "countries": [
         "USA"
