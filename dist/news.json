@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-24T17:20:54.864211+00:00",
-  "lastSuccessfulFetch": "2026-09-24T17:20:54.864211+00:00",
+  "checkedAt": "2026-09-24T21:36:43.885256+00:00",
+  "lastSuccessfulFetch": "2026-09-24T21:36:43.885256+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-24T17:20:54.864211+00:00",
-      "items": 10
+      "checkedAt": "2026-09-24T21:36:43.885256+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-24T17:20:54.864211+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-24T21:36:43.885256+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "0e34f3bdf0b7dd17",
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T21:21:47+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "4869940429368912",
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
@@ -28,6 +40,18 @@
       "eventDate": null,
       "countries": [
         "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7b058a7c878be0c8",
+      "title": "Israel: “Vamos a ganar. No tenemos otra alternativa”",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541970",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-24T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -150,6 +174,18 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "29a4561b916e30a3",
+      "title": "España: Sánchez defiende la ONU de los egoístas, ignorantes y crueles que quieren acabar con ella",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541960",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-23T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -956,44 +992,6 @@
       "eventDate": null,
       "countries": [
         "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5d4590b7f40bfddf",
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T12:26:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4fad8986e21b09f0",
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T08:36:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3c4fdf1e0c459c9e",
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T06:12:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
