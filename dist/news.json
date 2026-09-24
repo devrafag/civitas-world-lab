@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-24T05:03:37.933924+00:00",
-  "lastSuccessfulFetch": "2026-09-24T05:03:37.933924+00:00",
+  "checkedAt": "2026-09-24T11:58:18.563552+00:00",
+  "lastSuccessfulFetch": "2026-09-24T11:58:18.563552+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-24T05:03:37.933924+00:00",
-      "items": 6
+      "checkedAt": "2026-09-24T11:58:18.563552+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-24T05:03:37.933924+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-09-24T11:58:18.563552+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "923ffca2a455a278",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T11:16:29+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4559f7790e8501a6",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T08:26:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "07a8f2f97165164e",
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T03:52:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d88ace1b87547d73",
       "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
@@ -28,6 +65,19 @@
       "eventDate": null,
       "countries": [
         "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "68b4e36734a487d4",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T22:01:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -941,55 +991,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-09-15T21:07:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7a4944a8a832a465",
-      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T17:35:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a05aac70dcd19dc3",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T15:31:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b4161fc2105a135f",
-      "title": "British woman abducted in Malawi, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T15:03:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b4384c7c887c6bf8",
-      "title": "What weapon could the US have put into space?",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-15T14:23:14+00:00",
       "eventDate": null,
       "countries": [
         "USA"
