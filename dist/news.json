@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-24T21:36:43.885256+00:00",
-  "lastSuccessfulFetch": "2026-09-24T21:36:43.885256+00:00",
+  "checkedAt": "2026-09-25T05:06:36.294319+00:00",
+  "lastSuccessfulFetch": "2026-09-25T05:06:36.294319+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-24T21:36:43.885256+00:00",
-      "items": 11
+      "checkedAt": "2026-09-25T05:06:36.294319+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-24T21:36:43.885256+00:00",
+      "checkedAt": "2026-09-25T05:06:36.294319+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "5e42acdc9536fbed",
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T23:41:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "0e34f3bdf0b7dd17",
       "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
@@ -980,18 +992,6 @@
       "countries": [
         "USA",
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1f2a8bd4c71ebc7b",
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T14:50:26+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
