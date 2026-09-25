@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-25T17:20:07.192705+00:00",
-  "lastSuccessfulFetch": "2026-09-25T17:20:07.192705+00:00",
+  "checkedAt": "2026-09-25T21:41:04.992694+00:00",
+  "lastSuccessfulFetch": "2026-09-25T21:41:04.992694+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-25T17:20:07.192705+00:00",
+      "checkedAt": "2026-09-25T21:41:04.992694+00:00",
       "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-25T17:20:07.192705+00:00",
-      "items": 6
+      "ok": false,
+      "checkedAt": "2026-09-25T21:41:04.992694+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "cef9fc91331bcf00",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T20:47:49+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "899d6295eefe8b61",
       "title": "Supreme Court revives controversial US data system for citizenship checks",
@@ -976,18 +989,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-09-17T05:00:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3b1fd99596f34aed",
-      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T21:24:24+00:00",
       "eventDate": null,
       "countries": [
         "USA"
