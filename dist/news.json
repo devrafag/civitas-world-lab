@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-25T11:59:22.862177+00:00",
-  "lastSuccessfulFetch": "2026-09-25T11:59:22.862177+00:00",
+  "checkedAt": "2026-09-25T17:20:07.192705+00:00",
+  "lastSuccessfulFetch": "2026-09-25T17:20:07.192705+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-25T11:59:22.862177+00:00",
-      "items": 6
+      "checkedAt": "2026-09-25T17:20:07.192705+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-25T11:59:22.862177+00:00",
+      "checkedAt": "2026-09-25T17:20:07.192705+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "899d6295eefe8b61",
+      "title": "Supreme Court revives controversial US data system for citizenship checks",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T16:35:01+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "535466d2fc7082a1",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T15:36:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a0dba1a33ff32027",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T09:48:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "5e42acdc9536fbed",
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
@@ -955,43 +991,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "612035abe7bdae42",
-      "title": "US interest rates raised for first time in three years",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T21:02:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2fe3dd513d861ff3",
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T19:59:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8708e9aed58480c0",
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-16T18:36:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
