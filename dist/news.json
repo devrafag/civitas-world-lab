@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-26T05:09:54.456106+00:00",
-  "lastSuccessfulFetch": "2026-09-26T05:09:54.456106+00:00",
+  "checkedAt": "2026-09-26T11:34:45.988461+00:00",
+  "lastSuccessfulFetch": "2026-09-26T11:34:45.988461+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-26T05:09:54.456106+00:00",
-      "items": 11
+      "checkedAt": "2026-09-26T11:34:45.988461+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-26T05:09:54.456106+00:00",
+      "checkedAt": "2026-09-26T11:34:45.988461+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "1f401a94e62a9691",
+      "title": "Republic of Ireland news conference delayed before controversial Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T10:44:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "6096d6a184eb3059",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
@@ -78,6 +90,30 @@
       "countries": [
         "RUS",
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0dbc1d9a039e800f",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T20:06:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "38734cc4a7947422",
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T18:41:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -953,43 +989,6 @@
       "countries": [
         "USA",
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a9e04e9988df7467",
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T17:08:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8ebee3b2d76d82a6",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T13:47:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "71e53ab0fb142f2d",
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T13:02:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
