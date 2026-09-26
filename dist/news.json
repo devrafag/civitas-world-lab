@@ -1,24 +1,73 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-25T21:41:04.992694+00:00",
-  "lastSuccessfulFetch": "2026-09-25T21:41:04.992694+00:00",
+  "checkedAt": "2026-09-26T05:09:54.456106+00:00",
+  "lastSuccessfulFetch": "2026-09-26T05:09:54.456106+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-25T21:41:04.992694+00:00",
-      "items": 8
+      "checkedAt": "2026-09-26T05:09:54.456106+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-25T21:41:04.992694+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-26T05:09:54.456106+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "6096d6a184eb3059",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T05:03:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b26cc2f8862a6966",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T02:50:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2551dd230f049d95",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T23:20:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "baa69c0d1acbfcf4",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T23:08:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cef9fc91331bcf00",
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -41,6 +90,18 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a030cd1d0f072827",
+      "title": "Thousands turn out to greet Pope in France",
+      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T15:44:55+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -929,69 +990,6 @@
       "eventDate": null,
       "countries": [
         "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d7895b58d5593240",
-      "title": "Irán: civiles atrapados entre la represión estatal y los ataques de Estados Unidos",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541922",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-17T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8f95e1b64436d954",
-      "title": "Igualdad de género, Irán, agua dulce, medicina tradicional… Las noticias del jueves",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541919",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-17T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "add5c3d5fdddee6d",
-      "title": "India faces 100% tariff threat over Russian oil after US House vote",
-      "url": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T05:33:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS",
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e544f8787801cb21",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T05:00:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "29f491d4e3dbcc63",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T05:00:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
