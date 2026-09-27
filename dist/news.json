@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-26T21:17:48.104083+00:00",
-  "lastSuccessfulFetch": "2026-09-26T21:17:48.104083+00:00",
+  "checkedAt": "2026-09-27T05:27:21.015694+00:00",
+  "lastSuccessfulFetch": "2026-09-27T05:27:21.015694+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-26T21:17:48.104083+00:00",
-      "items": 12
+      "checkedAt": "2026-09-27T05:27:21.015694+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-26T21:17:48.104083+00:00",
+      "checkedAt": "2026-09-27T05:27:21.015694+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "7426e24e28c00687",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-26T19:59:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "21cd6a4ef40d68b0",
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
@@ -974,18 +986,6 @@
       "eventDate": null,
       "countries": [
         "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "df3d64fa58b60d38",
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-18T07:14:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
