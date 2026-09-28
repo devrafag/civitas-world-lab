@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-27T21:27:50.827616+00:00",
-  "lastSuccessfulFetch": "2026-09-27T21:27:50.827616+00:00",
+  "checkedAt": "2026-09-28T05:35:11.920531+00:00",
+  "lastSuccessfulFetch": "2026-09-28T05:35:11.920531+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-27T21:27:50.827616+00:00",
-      "items": 7
+      "checkedAt": "2026-09-28T05:35:11.920531+00:00",
+      "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-27T21:27:50.827616+00:00",
+      "checkedAt": "2026-09-28T05:35:11.920531+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "cea4a7ee171b945d",
+      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-27T23:01:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cb7921681dd9d30c",
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -974,18 +986,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "019c5f3fc425b30a",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-18T17:18:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "KOR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
