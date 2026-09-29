@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-29T05:52:56.476032+00:00",
-  "lastSuccessfulFetch": "2026-09-29T05:52:56.476032+00:00",
+  "checkedAt": "2026-09-29T13:07:23.905960+00:00",
+  "lastSuccessfulFetch": "2026-09-29T13:07:23.905960+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-29T05:52:56.476032+00:00",
+      "checkedAt": "2026-09-29T13:07:23.905960+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-29T05:52:56.476032+00:00",
-      "items": 6
+      "ok": false,
+      "checkedAt": "2026-09-29T13:07:23.905960+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "d77b9be5bd7c100c",
+      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T12:14:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2a7855935e3e7faa",
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T08:12:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "eb02fd37e5426483",
       "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
@@ -40,6 +64,18 @@
       "eventDate": null,
       "countries": [
         "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f105b25ad69f6e53",
+      "title": "Are Trump's US government funded ads illegal?",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T01:12:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -951,42 +987,6 @@
       "countries": [
         "USA",
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "467ae22844648496",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T00:05:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "313473f6a5135e70",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-20T20:21:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7a1bf5c96410d1e9",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-20T19:04:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "PAK"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
