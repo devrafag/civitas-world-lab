@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-28T23:23:03.554412+00:00",
-  "lastSuccessfulFetch": "2026-09-28T23:23:03.554412+00:00",
+  "checkedAt": "2026-09-29T05:52:56.476032+00:00",
+  "lastSuccessfulFetch": "2026-09-29T05:52:56.476032+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-28T23:23:03.554412+00:00",
-      "items": 10
+      "checkedAt": "2026-09-29T05:52:56.476032+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-28T23:23:03.554412+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-29T05:52:56.476032+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "eb02fd37e5426483",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T04:10:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f4c7af147c1285d0",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T01:28:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6ddc9551cbd9b420",
+      "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T00:50:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "348fc91433cefae3",
       "title": "French PM warns against escalation of school protests after 164 arrested",
@@ -89,6 +125,30 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d2b9d3972d0e73a8",
+      "title": "Racismo, Colombia, Palestina, Estados Unidos… Las noticias del lunes",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541986",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "65647c60e3475d0b",
+      "title": "La política de Estados Unidos de enviar migrantes a terceros países los expone a tortura y graves abusos, advierten expertos",
+      "url": "https://news.un.org/feed/view/es/story/2026/09/1541983",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -927,66 +987,6 @@
       "eventDate": null,
       "countries": [
         "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ad9e995a839bf16f",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-20T10:45:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b3f0dc8693371ca7",
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-20T07:57:32+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "16d2a023660b232a",
-      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-19T23:18:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9403c5d7646ebe73",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-19T21:01:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cf8b44c111b06306",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-19T20:16:07+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
