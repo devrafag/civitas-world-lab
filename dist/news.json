@@ -1,24 +1,135 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-29T13:07:23.905960+00:00",
-  "lastSuccessfulFetch": "2026-09-29T13:07:23.905960+00:00",
+  "checkedAt": "2026-09-29T22:24:37.873375+00:00",
+  "lastSuccessfulFetch": "2026-09-29T22:24:37.873375+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-29T13:07:23.905960+00:00",
-      "items": 9
+      "checkedAt": "2026-09-29T22:24:37.873375+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-09-29T13:07:23.905960+00:00",
+      "checkedAt": "2026-09-29T22:24:37.873375+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "36d5ffadc69d1e0f",
+      "title": "More than 400 detained as France student protests escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T21:55:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ded9540233a939d7",
+      "title": "Fires and blockades as students stage school protests across France",
+      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T21:53:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "12e14a66593c6aed",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T21:45:01+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1d042355d71b8308",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T19:36:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "514077a834c6aa5c",
+      "title": "First female prime minister named in Morocco after winning elections",
+      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T17:14:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "MAR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a6600bbf70a24f27",
+      "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
+      "url": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T14:45:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "88bf78170fd8e837",
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T12:43:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "db86f6713f4a521c",
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T12:39:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b12b6c78e7e181e4",
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T12:20:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d77b9be5bd7c100c",
       "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
@@ -878,115 +989,6 @@
       "eventDate": null,
       "countries": [
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e035c621630bbf31",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T16:54:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7052dc33ef86bd2a",
-      "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-      "url": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T16:52:12+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c8e7aa74cf622649",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T14:14:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "93c4e6486c69bcad",
-      "title": "Merz's political crisis threatens Germany's obsession with stability",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T13:30:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5708f274c5144bb0",
-      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
-      "url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T12:21:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "15afdceaa225b570",
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T12:08:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "083411ba9f356c0c",
-      "title": "Inteligencia artificial, Nicaragua, Ucrania, Sudán… Las noticias del lunes",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541937",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-21T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ef3433f590e5b670",
-      "title": "'No surprises' as results emerge in Russian parliamentary election",
-      "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T06:58:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b7dee4be8463359f",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T05:50:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
