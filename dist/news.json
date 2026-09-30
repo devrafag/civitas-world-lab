@@ -1,24 +1,72 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-30T12:47:20.566812+00:00",
-  "lastSuccessfulFetch": "2026-09-30T12:47:20.566812+00:00",
+  "checkedAt": "2026-09-30T22:23:08.365634+00:00",
+  "lastSuccessfulFetch": "2026-09-30T22:23:08.365634+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-30T12:47:20.566812+00:00",
-      "items": 14
+      "checkedAt": "2026-09-30T22:23:08.365634+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-30T12:47:20.566812+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-30T22:23:08.365634+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "6e51ebb4942878ed",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T21:36:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0a0a4fcc14c06d54",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T17:11:08+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0d967fda81d878df",
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T15:29:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d3a19f57703f8dd2",
+      "title": "Passengers describe stabbing on Israel-bound plane",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T15:07:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "38619c509b1986d4",
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -941,56 +989,6 @@
       "eventDate": null,
       "countries": [
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "758c489d1cf9d19d",
-      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T22:03:48+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a0d4c8b969aca2a6",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T20:59:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR",
-        "MAR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "70f11dbf8f061a0d",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T19:06:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9474722a1fbe0050",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T18:43:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
