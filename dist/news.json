@@ -1,24 +1,86 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-29T22:24:37.873375+00:00",
-  "lastSuccessfulFetch": "2026-09-29T22:24:37.873375+00:00",
+  "checkedAt": "2026-09-30T05:43:44.032584+00:00",
+  "lastSuccessfulFetch": "2026-09-30T05:43:44.032584+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-29T22:24:37.873375+00:00",
-      "items": 16
+      "checkedAt": "2026-09-30T05:43:44.032584+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-09-29T22:24:37.873375+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-09-30T05:43:44.032584+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "6a9f573ffc0c8810",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T05:24:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "KOR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e966b5229e79f17d",
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T04:21:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "KOR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c9d204d172bcc49f",
+      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+      "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T23:39:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3f69e05165dc95d2",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T23:33:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "744a654a78d07f86",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-29T23:15:29+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "36d5ffadc69d1e0f",
       "title": "More than 400 detained as France student protests escalate",
@@ -929,66 +991,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0bf9156e89877657",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T10:42:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "TUR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "450eefac36d48a34",
-      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T08:17:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "007b74de84db5761",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T07:14:12+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2476496b3c12fe4b",
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T05:14:42+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "acbeb50af663ca4e",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-21T20:26:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
