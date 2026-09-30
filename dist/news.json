@@ -1,24 +1,73 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-30T05:43:44.032584+00:00",
-  "lastSuccessfulFetch": "2026-09-30T05:43:44.032584+00:00",
+  "checkedAt": "2026-09-30T12:47:20.566812+00:00",
+  "lastSuccessfulFetch": "2026-09-30T12:47:20.566812+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-09-30T05:43:44.032584+00:00",
-      "items": 17
+      "checkedAt": "2026-09-30T12:47:20.566812+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-09-30T05:43:44.032584+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-09-30T12:47:20.566812+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "38619c509b1986d4",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T12:42:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "543752e81afbf513",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T11:36:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8898c6075bf3298e",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T08:59:38+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e1ef077caabf6e5b",
+      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+      "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-09-30T08:45:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "6a9f573ffc0c8810",
       "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
@@ -942,55 +991,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6addf72af2ca3baa",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T14:23:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a54e9b86abf22699",
-      "title": "Estados Unidos: Trump amenaza con aniquilar a Irán y usar la fuerza en Latinoamérica",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541947",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-22T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "85ebd3f9d7054e1b",
-      "title": "British man missing after diving into Lake Como to rescue teenager",
-      "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T11:44:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1fb27fe8888fcded",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T10:45:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
