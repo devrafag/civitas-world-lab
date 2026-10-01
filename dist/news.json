@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-01T06:09:39.179546+00:00",
-  "lastSuccessfulFetch": "2026-10-01T06:09:39.179546+00:00",
+  "checkedAt": "2026-10-01T13:32:49.432370+00:00",
+  "lastSuccessfulFetch": "2026-10-01T13:32:49.432370+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-01T06:09:39.179546+00:00",
+      "checkedAt": "2026-10-01T13:32:49.432370+00:00",
       "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-01T06:09:39.179546+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-10-01T13:32:49.432370+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "08562153e4654673",
+      "title": "Watch: Why are students protesting at schools in France?",
+      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T12:31:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "06024677b65ae021",
+      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T12:13:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2400839f5b3eb7f2",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T08:39:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND",
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "9e867a33cfee2d99",
       "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
@@ -52,6 +89,18 @@
       "eventDate": null,
       "countries": [
         "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e8ac71464ff5b33b",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T02:57:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -940,55 +989,6 @@
       "eventDate": null,
       "countries": [
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b7e58b5f1e5883b5",
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T12:01:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "29a4561b916e30a3",
-      "title": "España: Sánchez defiende la ONU de los egoístas, ignorantes y crueles que quieren acabar con ella",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541960",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "60dc38440b6849c6",
-      "title": "Zelenskyy pide aumentar la presión sobre Rusia y afirma que la guerra se extiende más allá de Ucrania",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541957",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7ec0b2aff0775b0a",
-      "title": "Argentina: Milei reclama al Reino Unido retomar las negociaciones sobre las Malvinas",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541952",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
