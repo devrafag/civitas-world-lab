@@ -1,24 +1,85 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-01T13:32:49.432370+00:00",
-  "lastSuccessfulFetch": "2026-10-01T13:32:49.432370+00:00",
+  "checkedAt": "2026-10-01T22:46:55.375315+00:00",
+  "lastSuccessfulFetch": "2026-10-01T22:46:55.375315+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-01T13:32:49.432370+00:00",
-      "items": 17
+      "checkedAt": "2026-10-01T22:46:55.375315+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-01T13:32:49.432370+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-01T22:46:55.375315+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "0bc6100d01a0747b",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T20:30:47+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "903db42d8eb7f214",
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T19:38:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9cc12cf7d50a6adf",
+      "title": "Fires break out at French schools as students protest nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T19:19:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "16f89995c3849d8c",
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T16:31:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "DZA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e1c99d351b764303",
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T14:05:55+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "08562153e4654673",
       "title": "Watch: Why are students protesting at schools in France?",
@@ -928,67 +989,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "68b4e36734a487d4",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T22:01:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4dcb53e3691638b9",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T15:58:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a23a4287ae535987",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T15:37:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "804cbed7a85c2bd3",
-      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T14:32:42+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c89a7e14aca1783b",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T12:31:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
