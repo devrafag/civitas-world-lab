@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-01T22:46:55.375315+00:00",
-  "lastSuccessfulFetch": "2026-10-01T22:46:55.375315+00:00",
+  "checkedAt": "2026-10-02T05:53:10.942170+00:00",
+  "lastSuccessfulFetch": "2026-10-02T05:53:10.942170+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-01T22:46:55.375315+00:00",
-      "items": 15
+      "checkedAt": "2026-10-02T05:53:10.942170+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-01T22:46:55.375315+00:00",
+      "checkedAt": "2026-10-02T05:53:10.942170+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "dce3b7690583e839",
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T05:26:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e90781a58b70bd0c",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T03:09:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "cf1e251d373ddf38",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-01T23:42:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "0bc6100d01a0747b",
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
@@ -949,43 +986,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-09-24T11:16:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4559f7790e8501a6",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-24T08:26:19+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "07a8f2f97165164e",
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-24T03:52:21+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d88ace1b87547d73",
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T23:58:50+00:00",
       "eventDate": null,
       "countries": [
         "RUS"
