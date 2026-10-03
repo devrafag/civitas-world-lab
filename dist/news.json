@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-02T22:21:43.643007+00:00",
-  "lastSuccessfulFetch": "2026-10-02T22:21:43.643007+00:00",
+  "checkedAt": "2026-10-03T05:28:22.182196+00:00",
+  "lastSuccessfulFetch": "2026-10-03T05:28:22.182196+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-02T22:21:43.643007+00:00",
-      "items": 16
+      "checkedAt": "2026-10-03T05:28:22.182196+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-02T22:21:43.643007+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-10-03T05:28:22.182196+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "03c8f03111f5eff5",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T23:06:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "47d9f14692cecb2d",
+      "title": "The vanishing world of India's street magicians",
+      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T22:59:05+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e4b583dc89b9a5a7",
       "title": "Riot police clash with students as education protests rage in France",
@@ -64,6 +88,18 @@
       "eventDate": null,
       "countries": [
         "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "610f070ee9e14531",
+      "title": "Watch: Why students in France are protesting",
+      "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-02T15:02:15+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -953,42 +989,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "38734cc4a7947422",
-      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-25T18:41:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "899d6295eefe8b61",
-      "title": "Supreme Court revives controversial US data system for citizenship checks",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-25T16:35:01+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a030cd1d0f072827",
-      "title": "Thousands turn out to greet Pope in France",
-      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-25T15:44:55+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
