@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-03T21:28:16.006185+00:00",
-  "lastSuccessfulFetch": "2026-10-03T21:28:16.006185+00:00",
+  "checkedAt": "2026-10-04T06:03:36.501142+00:00",
+  "lastSuccessfulFetch": "2026-10-04T06:03:36.501142+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-03T21:28:16.006185+00:00",
-      "items": 18
+      "checkedAt": "2026-10-04T06:03:36.501142+00:00",
+      "items": 20
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-03T21:28:16.006185+00:00",
+      "checkedAt": "2026-10-04T06:03:36.501142+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "d42f52493b5f9fd6",
+      "title": "Debris found from plane that went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-04T03:49:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "45a8b74b66f16ccc",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-03T23:30:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "67cfccb6360a71fd",
       "title": "Why has Brazil accused the US of election interference?",
@@ -964,30 +988,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1e1dc2450d3c4ec9",
-      "title": "China apuesta por la prosperidad común y el multilateralismo ante la Asamblea General",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541979",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-26T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1f401a94e62a9691",
-      "title": "Republic of Ireland news conference delayed before controversial Israel game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T10:44:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
