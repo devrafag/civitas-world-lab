@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-04T12:33:34.105487+00:00",
-  "lastSuccessfulFetch": "2026-10-04T12:33:34.105487+00:00",
+  "checkedAt": "2026-10-04T21:39:16.658571+00:00",
+  "lastSuccessfulFetch": "2026-10-04T21:39:16.658571+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-04T12:33:34.105487+00:00",
-      "items": 10
+      "checkedAt": "2026-10-04T21:39:16.658571+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-10-04T12:33:34.105487+00:00",
+      "checkedAt": "2026-10-04T21:39:16.658571+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "8c43e1cec6b55b13",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-04T17:01:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "23f60e007b651cfc",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-04T14:36:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b44427dd60f96ae2",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-04T14:25:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "bd9526dd54522978",
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -953,42 +990,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9bea66b25fb918ba",
-      "title": "Young people in China are fangirling over a professor who gets their anxiety",
-      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T22:02:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7426e24e28c00687",
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T19:59:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "21cd6a4ef40d68b0",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T15:48:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
