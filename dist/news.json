@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-04T06:03:36.501142+00:00",
-  "lastSuccessfulFetch": "2026-10-04T06:03:36.501142+00:00",
+  "checkedAt": "2026-10-04T12:33:34.105487+00:00",
+  "lastSuccessfulFetch": "2026-10-04T12:33:34.105487+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-04T06:03:36.501142+00:00",
-      "items": 20
+      "checkedAt": "2026-10-04T12:33:34.105487+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-04T06:03:36.501142+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-10-04T12:33:34.105487+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "bd9526dd54522978",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-04T12:09:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d42f52493b5f9fd6",
       "title": "Debris found from plane that went missing off US coast",
@@ -37,6 +50,18 @@
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-03T23:30:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dfaf5bd1a90dd77b",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-03T22:39:06+00:00",
       "eventDate": null,
       "countries": [
         "USA"
@@ -964,30 +989,6 @@
       "eventDate": null,
       "countries": [
         "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "947aa80905841d5b",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T12:47:25+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cb21cc80b9b26461",
-      "title": "Rusia: Lavrov propone una nueva arquitectura de seguridad en Eurasia",
-      "url": "https://news.un.org/feed/view/es/story/2026/09/1541981",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-09-26T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
