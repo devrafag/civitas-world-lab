@@ -1,24 +1,122 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-06T06:33:02.568798+00:00",
-  "lastSuccessfulFetch": "2026-10-06T06:33:02.568798+00:00",
+  "checkedAt": "2026-10-06T18:29:08.106041+00:00",
+  "lastSuccessfulFetch": "2026-10-06T18:29:08.106041+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-06T06:33:02.568798+00:00",
-      "items": 10
+      "checkedAt": "2026-10-06T18:29:08.106041+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-06T06:33:02.568798+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-06T18:29:08.106041+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "00ffc7da3f3ad0b3",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T16:22:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5d11f305b267dc57",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T14:44:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c3b5ceb12c0d19cc",
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T13:32:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "46268e90a7791fb8",
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T13:31:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8152af8453b840a8",
+      "title": "Examinan un caso sospechoso de muerte por peste en Rusia",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542016",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-06T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9055e51399321492",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T10:05:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2efce67f0a5971eb",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T10:05:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "66a558ea19f1ee04",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T09:48:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "ec70415c64f77d90",
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
@@ -893,105 +991,6 @@
       "countries": [
         "CHN",
         "KOR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c9d204d172bcc49f",
-      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-      "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T23:39:58+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3f69e05165dc95d2",
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T23:33:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "744a654a78d07f86",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T23:15:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "36d5ffadc69d1e0f",
-      "title": "More than 400 detained as France student protests escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T21:55:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ded9540233a939d7",
-      "title": "Fires and blockades as students stage school protests across France",
-      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T21:53:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "12e14a66593c6aed",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T21:45:01+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1d042355d71b8308",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T19:36:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "514077a834c6aa5c",
-      "title": "First female prime minister named in Morocco after winning elections",
-      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T17:14:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "MAR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
