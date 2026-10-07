@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-07T13:37:20.401214+00:00",
-  "lastSuccessfulFetch": "2026-10-07T13:37:20.401214+00:00",
+  "checkedAt": "2026-10-07T23:11:49.556475+00:00",
+  "lastSuccessfulFetch": "2026-10-07T23:11:49.556475+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-07T13:37:20.401214+00:00",
+      "checkedAt": "2026-10-07T23:11:49.556475+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-07T13:37:20.401214+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-07T23:11:49.556475+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "e8901cdd20f5305a",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T21:40:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8b4fe0acec74ffa0",
+      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T20:29:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "b267d4dc968f3546",
       "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
@@ -64,6 +88,18 @@
       "eventDate": null,
       "countries": [
         "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "173ebedd56f40347",
+      "title": "La OMS pide a Rusia más información sobre la muerte de una trabajadora de un laboratorio contra la peste",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542021",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -952,43 +988,6 @@
       "eventDate": null,
       "countries": [
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c701e4f965714c7d",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T23:10:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6e51ebb4942878ed",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T21:36:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0a0a4fcc14c06d54",
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T17:11:08+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
