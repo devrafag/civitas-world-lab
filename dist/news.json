@@ -1,24 +1,72 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-06T18:29:08.106041+00:00",
-  "lastSuccessfulFetch": "2026-10-06T18:29:08.106041+00:00",
+  "checkedAt": "2026-10-07T06:11:25.046254+00:00",
+  "lastSuccessfulFetch": "2026-10-07T06:11:25.046254+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-06T18:29:08.106041+00:00",
-      "items": 11
+      "checkedAt": "2026-10-07T06:11:25.046254+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-06T18:29:08.106041+00:00",
-      "items": 5
+      "checkedAt": "2026-10-07T06:11:25.046254+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "5ad65a9ec17d95c7",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T00:56:59+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3c941fff32fbcf68",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T21:22:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1273e6bd5e7ae733",
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T19:53:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "92b454d89d3dd6bb",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-06T18:03:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "00ffc7da3f3ad0b3",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
@@ -942,55 +990,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8898c6075bf3298e",
-      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T08:59:38+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e1ef077caabf6e5b",
-      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-      "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T08:45:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6a9f573ffc0c8810",
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T05:24:52+00:00",
-      "eventDate": null,
-      "countries": [
-        "KOR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e966b5229e79f17d",
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T04:21:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "KOR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
