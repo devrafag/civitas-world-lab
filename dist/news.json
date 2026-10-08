@@ -1,24 +1,108 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-07T23:11:49.556475+00:00",
-  "lastSuccessfulFetch": "2026-10-07T23:11:49.556475+00:00",
+  "checkedAt": "2026-10-08T06:19:11.432782+00:00",
+  "lastSuccessfulFetch": "2026-10-08T06:19:11.432782+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-07T23:11:49.556475+00:00",
-      "items": 9
+      "checkedAt": "2026-10-08T06:19:11.432782+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-07T23:11:49.556475+00:00",
+      "checkedAt": "2026-10-08T06:19:11.432782+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "8d9f4fff07ff0c01",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T05:00:44+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "21dbc3bb11b8ef37",
+      "title": "Veteran Indian actor Nana Patekar dies at 75",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T03:41:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "db17a20213d576c0",
+      "title": "France's school protests: What lies behind the anger",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T03:38:46+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d954f5ec6b0d90e1",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T03:32:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7cd215739149b460",
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T03:02:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "30a0d89b9c2bfa2a",
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T23:31:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "13a62542089027f3",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-07T23:18:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e8901cdd20f5305a",
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
@@ -904,90 +988,6 @@
       "countries": [
         "IND",
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9e867a33cfee2d99",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T05:34:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "fe30ec7f22e93319",
-      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T03:52:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f60c9bd154529720",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T03:43:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e8ac71464ff5b33b",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T02:57:43+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1297247b804f77af",
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T00:57:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8402516ce8f912bd",
-      "title": "The children dying in India's remote tribal heartland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T23:41:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "92e75d85220a67fe",
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T23:25:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
