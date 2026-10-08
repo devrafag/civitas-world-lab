@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-08T13:44:38.405451+00:00",
-  "lastSuccessfulFetch": "2026-10-08T13:44:38.405451+00:00",
+  "checkedAt": "2026-10-08T23:27:07.460746+00:00",
+  "lastSuccessfulFetch": "2026-10-08T23:27:07.460746+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T13:44:38.405451+00:00",
-      "items": 14
+      "checkedAt": "2026-10-08T23:27:07.460746+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T13:44:38.405451+00:00",
-      "items": 4
+      "checkedAt": "2026-10-08T23:27:07.460746+00:00",
+      "items": 3
     }
   ],
   "items": [
+    {
+      "id": "f0613b5c2bd59a59",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T19:10:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a2a00bbfc5357c68",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T17:16:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5be71ec2bf0f55cf",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T16:24:05+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "672400258c37a954",
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -29,6 +65,18 @@
       "countries": [
         "RUS",
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a17534c531674a38",
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+      "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T12:01:55+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -66,6 +114,18 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "71f83f78f061da79",
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T05:06:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -927,67 +987,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cf1e251d373ddf38",
-      "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T23:42:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0bc6100d01a0747b",
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T20:30:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "903db42d8eb7f214",
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T19:38:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9cc12cf7d50a6adf",
-      "title": "Fires break out at French schools as students protest nationwide",
-      "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T19:19:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "16f89995c3849d8c",
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T16:31:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "DZA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
