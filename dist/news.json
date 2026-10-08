@@ -1,24 +1,74 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-08T06:19:11.432782+00:00",
-  "lastSuccessfulFetch": "2026-10-08T06:19:11.432782+00:00",
+  "checkedAt": "2026-10-08T13:44:38.405451+00:00",
+  "lastSuccessfulFetch": "2026-10-08T13:44:38.405451+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T06:19:11.432782+00:00",
-      "items": 10
+      "checkedAt": "2026-10-08T13:44:38.405451+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T06:19:11.432782+00:00",
+      "checkedAt": "2026-10-08T13:44:38.405451+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "672400258c37a954",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T12:43:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "045845acfa6c0747",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T09:56:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "KOR",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c2494a992a48d078",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T08:18:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7ef7a15d9bee089f",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T08:13:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "8d9f4fff07ff0c01",
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
@@ -938,56 +988,6 @@
       "eventDate": null,
       "countries": [
         "DZA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e1c99d351b764303",
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T14:05:55+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "08562153e4654673",
-      "title": "Watch: Why are students protesting at schools in France?",
-      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T12:31:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "06024677b65ae021",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T12:13:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2400839f5b3eb7f2",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-01T08:39:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND",
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
