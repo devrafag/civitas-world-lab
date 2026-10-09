@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-08T23:27:07.460746+00:00",
-  "lastSuccessfulFetch": "2026-10-08T23:27:07.460746+00:00",
+  "checkedAt": "2026-10-09T06:21:15.306909+00:00",
+  "lastSuccessfulFetch": "2026-10-09T06:21:15.306909+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T23:27:07.460746+00:00",
-      "items": 16
+      "checkedAt": "2026-10-09T06:21:15.306909+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-08T23:27:07.460746+00:00",
-      "items": 3
+      "checkedAt": "2026-10-09T06:21:15.306909+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "8c398c4db6534f12",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T23:11:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "f0613b5c2bd59a59",
       "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
@@ -77,6 +89,18 @@
       "eventDate": null,
       "countries": [
         "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b9709b52cfb4909b",
+      "title": "Ucrania: al menos 85 civiles muertos en cuatro días por una nueva ola de ataques rusos",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542030",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -963,30 +987,6 @@
       "eventDate": null,
       "countries": [
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "dce3b7690583e839",
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T05:26:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e90781a58b70bd0c",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T03:09:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
