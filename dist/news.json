@@ -1,24 +1,96 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-09T06:21:15.306909+00:00",
-  "lastSuccessfulFetch": "2026-10-09T06:21:15.306909+00:00",
+  "checkedAt": "2026-10-09T13:32:13.372177+00:00",
+  "lastSuccessfulFetch": "2026-10-09T13:32:13.372177+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-09T06:21:15.306909+00:00",
-      "items": 17
+      "checkedAt": "2026-10-09T13:32:13.372177+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-09T06:21:15.306909+00:00",
-      "items": 4
+      "ok": false,
+      "checkedAt": "2026-10-09T13:32:13.372177+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "f7d488b6e8e5a945",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T12:05:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2e892df7375200df",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T11:35:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ecf72f5ac7635ed0",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T10:07:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ace2ba4323a38e19",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T07:19:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "16017a9d2d5b1be0",
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T06:42:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4fecfd587bd80181",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T04:53:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "8c398c4db6534f12",
       "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
@@ -915,78 +987,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "96b427592c50736e",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T15:30:12+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8433c818c0341b77",
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T15:26:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "610f070ee9e14531",
-      "title": "Watch: Why students in France are protesting",
-      "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T15:02:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8daa4b4ed0575b48",
-      "title": "School protests send shivers down French government's spine",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T12:43:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7e98a9925f3d2abd",
-      "title": "Precios de los alimentos, Gaza, Haití, Ucrania… Las noticias del viernes",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542006",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-02T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "52225408fb5f85ae",
-      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T05:53:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
