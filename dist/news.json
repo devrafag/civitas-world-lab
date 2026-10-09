@@ -1,24 +1,97 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-09T13:32:13.372177+00:00",
-  "lastSuccessfulFetch": "2026-10-09T13:32:13.372177+00:00",
+  "checkedAt": "2026-10-09T22:44:55.643957+00:00",
+  "lastSuccessfulFetch": "2026-10-09T22:44:55.643957+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-09T13:32:13.372177+00:00",
+      "checkedAt": "2026-10-09T22:44:55.643957+00:00",
       "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-09T13:32:13.372177+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-09T22:44:55.643957+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "be81e1bb6c9a7ce9",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T21:55:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "26642edca61eefe9",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T21:54:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "22a5f858763d26f1",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T18:40:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "538442b5a32e3ce1",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T17:36:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "70607c1029321917",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T17:14:44+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8a4dce8a059b1735",
+      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-09T16:19:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "f7d488b6e8e5a945",
       "title": "Two Renoir paintings stolen from French museum are recovered",
@@ -915,78 +988,6 @@
       "eventDate": null,
       "countries": [
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2fb3c89a6646aaed",
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-03T10:58:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "03c8f03111f5eff5",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T23:06:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "47d9f14692cecb2d",
-      "title": "The vanishing world of India's street magicians",
-      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T22:59:05+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e4b583dc89b9a5a7",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T21:13:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "08e18bac009fdf43",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T20:32:07+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b564102834d5e374",
-      "title": "How widely used is the death penalty in the US?",
-      "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T19:56:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
