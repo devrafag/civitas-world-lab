@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-11T13:06:42.145800+00:00",
-  "lastSuccessfulFetch": "2026-10-11T13:06:42.145800+00:00",
+  "checkedAt": "2026-10-11T22:08:29.373312+00:00",
+  "lastSuccessfulFetch": "2026-10-11T22:08:29.373312+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-11T13:06:42.145800+00:00",
-      "items": 15
+      "checkedAt": "2026-10-11T22:08:29.373312+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-10-11T13:06:42.145800+00:00",
+      "checkedAt": "2026-10-11T22:08:29.373312+00:00",
       "error": "TimeoutError"
     }
   ],
   "items": [
+    {
+      "id": "9425c6a29215c5ea",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T21:36:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6563c1b8fad16be9",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T21:30:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "9c456bbec7c9470c",
       "title": "Ukraine strikes Russian data centre again despite Trump warning",
@@ -961,31 +985,6 @@
       "countries": [
         "USA",
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e7ad4bd0672a9274",
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T05:28:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4d9f80d91d4cefd4",
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T04:58:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "GBR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
