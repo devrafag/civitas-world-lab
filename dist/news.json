@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-11T22:08:29.373312+00:00",
-  "lastSuccessfulFetch": "2026-10-11T22:08:29.373312+00:00",
+  "checkedAt": "2026-10-12T06:11:13.946395+00:00",
+  "lastSuccessfulFetch": "2026-10-12T06:11:13.946395+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-11T22:08:29.373312+00:00",
-      "items": 10
+      "checkedAt": "2026-10-12T06:11:13.946395+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-10-11T22:08:29.373312+00:00",
-      "error": "TimeoutError"
+      "checkedAt": "2026-10-12T06:11:13.946395+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "c85d70cd1e15bc10",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T23:18:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "9425c6a29215c5ea",
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
@@ -972,19 +984,6 @@
       "eventDate": null,
       "countries": [
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d44483100029ca22",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T08:22:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
