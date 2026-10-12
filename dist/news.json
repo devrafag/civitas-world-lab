@@ -1,24 +1,96 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-12T06:11:13.946395+00:00",
-  "lastSuccessfulFetch": "2026-10-12T06:11:13.946395+00:00",
+  "checkedAt": "2026-10-12T15:45:20.008278+00:00",
+  "lastSuccessfulFetch": "2026-10-12T15:45:20.008278+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-12T06:11:13.946395+00:00",
-      "items": 7
+      "checkedAt": "2026-10-12T15:45:20.008278+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-12T06:11:13.946395+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-12T15:45:20.008278+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "2f0532d8a8030249",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T15:19:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ce2e9881c1380770",
+      "title": "Why the US is bringing back firing squads",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T14:56:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f01b2978388106ae",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T14:30:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d8b2e2b81bbb6b13",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T14:13:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0202ae2f375421a1",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T14:00:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5f162883c0efd13c",
+      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T13:49:05+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "c85d70cd1e15bc10",
       "title": "Trump faces growing backlash over plans to import diesel from Russia",
@@ -65,6 +137,18 @@
       "countries": [
         "RUS",
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "64348f6a3fead7b2",
+      "title": "Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542037",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-11T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -900,90 +984,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "88e135495155bb95",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T19:30:50+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c60abc17185ac762",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T15:17:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e25b642c8acffc89",
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T14:30:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8d0753946b5492df",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T13:16:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "00aefe1983e090eb",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T11:10:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "29c26406625591f7",
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T10:18:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ca08a44f3320cf2e",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T09:03:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
