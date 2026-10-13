@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-12T15:45:20.008278+00:00",
-  "lastSuccessfulFetch": "2026-10-12T15:45:20.008278+00:00",
+  "checkedAt": "2026-10-13T00:50:54.812052+00:00",
+  "lastSuccessfulFetch": "2026-10-13T00:50:54.812052+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-12T15:45:20.008278+00:00",
-      "items": 8
+      "checkedAt": "2026-10-13T00:50:54.812052+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-12T15:45:20.008278+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-10-13T00:50:54.812052+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "858a145164c4b053",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T21:20:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "92f27a6603f8f777",
+      "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-12T15:51:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "2f0532d8a8030249",
       "title": "Thousands march to Indian Supreme Court to demand election chief resign",
@@ -959,31 +984,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e14684b03c01f162",
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T21:33:49+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "275c27e2ad6557e6",
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-05T21:18:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
