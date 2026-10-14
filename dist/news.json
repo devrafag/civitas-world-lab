@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-14T05:03:53.655995+00:00",
-  "lastSuccessfulFetch": "2026-10-14T05:03:53.655995+00:00",
+  "checkedAt": "2026-10-14T12:07:35.021561+00:00",
+  "lastSuccessfulFetch": "2026-10-14T12:07:35.021561+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T05:03:53.655995+00:00",
-      "items": 11
+      "checkedAt": "2026-10-14T12:07:35.021561+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T05:03:53.655995+00:00",
-      "items": 4
+      "checkedAt": "2026-10-14T12:07:35.021561+00:00",
+      "items": 3
     }
   ],
   "items": [
+    {
+      "id": "38baf772a938d90f",
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T11:32:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "11f619156f457045",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T10:50:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "fcd01b7e9f9a501e",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T09:25:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "06c51049c7124615",
       "title": "Russia arrests Japanese journalist on alleged espionage",
@@ -949,42 +986,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "25a768bd5992df4d",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T12:58:03+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "bbffa81b5cd21465",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T12:16:58+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0fcbfcb8ec040133",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T12:09:59+00:00",
-      "eventDate": null,
-      "countries": [
-        "JPN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
