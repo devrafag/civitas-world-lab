@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-14T17:21:20.833696+00:00",
-  "lastSuccessfulFetch": "2026-10-14T17:21:20.833696+00:00",
+  "checkedAt": "2026-10-14T21:48:33.569399+00:00",
+  "lastSuccessfulFetch": "2026-10-14T21:48:33.569399+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T17:21:20.833696+00:00",
+      "checkedAt": "2026-10-14T21:48:33.569399+00:00",
       "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-14T17:21:20.833696+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-14T21:48:33.569399+00:00",
+      "items": 2
     }
   ],
   "items": [
+    {
+      "id": "eabcd42a819b6b05",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T20:55:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6dbdbd1096f471b8",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T19:52:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e7c3af778fcfbca8",
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
@@ -963,30 +988,6 @@
       "eventDate": null,
       "countries": [
         "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7cd215739149b460",
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T03:02:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "30a0d89b9c2bfa2a",
-      "title": "She made India fall in love with women's cricket - now her era as captain is over",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T23:31:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
