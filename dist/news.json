@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-14T12:07:35.021561+00:00",
-  "lastSuccessfulFetch": "2026-10-14T12:07:35.021561+00:00",
+  "checkedAt": "2026-10-14T17:21:20.833696+00:00",
+  "lastSuccessfulFetch": "2026-10-14T17:21:20.833696+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T12:07:35.021561+00:00",
-      "items": 13
+      "checkedAt": "2026-10-14T17:21:20.833696+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-14T12:07:35.021561+00:00",
-      "items": 3
+      "ok": false,
+      "checkedAt": "2026-10-14T17:21:20.833696+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "e7c3af778fcfbca8",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T15:56:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f72fa532500caca1",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T15:54:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "96faa508b0e30813",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T15:26:14+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "38baf772a938d90f",
       "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
@@ -53,6 +90,18 @@
       "countries": [
         "RUS",
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4092a753c1b1f9a6",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T05:00:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -938,54 +987,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "13a62542089027f3",
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T23:18:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e8901cdd20f5305a",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T21:40:24+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8b4fe0acec74ffa0",
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T20:29:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b267d4dc968f3546",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T13:02:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
