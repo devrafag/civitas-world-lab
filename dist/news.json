@@ -1,24 +1,50 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-13T22:55:49.436802+00:00",
-  "lastSuccessfulFetch": "2026-10-13T22:55:49.436802+00:00",
+  "checkedAt": "2026-10-14T05:03:53.655995+00:00",
+  "lastSuccessfulFetch": "2026-10-14T05:03:53.655995+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-13T22:55:49.436802+00:00",
-      "items": 10
+      "checkedAt": "2026-10-14T05:03:53.655995+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-13T22:55:49.436802+00:00",
+      "checkedAt": "2026-10-14T05:03:53.655995+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "06c51049c7124615",
+      "title": "Russia arrests Japanese journalist on alleged espionage",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T04:10:49+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "682415106c6cc7b9",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-13T23:42:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "723fdd12074bdad5",
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
@@ -959,30 +985,6 @@
       "eventDate": null,
       "countries": [
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "173ebedd56f40347",
-      "title": "La OMS pide a Rusia más información sobre la muerte de una trabajadora de un laboratorio contra la peste",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542021",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-07T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5ad65a9ec17d95c7",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-07T00:56:59+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
