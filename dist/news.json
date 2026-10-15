@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-15T11:44:00.469779+00:00",
-  "lastSuccessfulFetch": "2026-10-15T11:44:00.469779+00:00",
+  "checkedAt": "2026-10-15T17:10:34.638450+00:00",
+  "lastSuccessfulFetch": "2026-10-15T17:10:34.638450+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T11:44:00.469779+00:00",
-      "items": 9
+      "checkedAt": "2026-10-15T17:10:34.638450+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T11:44:00.469779+00:00",
+      "checkedAt": "2026-10-15T17:10:34.638450+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "83b1486e7508d464",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T16:15:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d64e80c26203100f",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T15:26:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e40d3d4a2a60c51b",
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T15:05:29+00:00",
+      "eventDate": null,
+      "countries": [
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "64e921aaa04cd034",
       "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
@@ -954,43 +990,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "672400258c37a954",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T12:43:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a17534c531674a38",
-      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-      "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T12:01:55+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b9709b52cfb4909b",
-      "title": "Ucrania: al menos 85 civiles muertos en cuatro días por una nueva ola de ataques rusos",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542030",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
