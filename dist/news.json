@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-14T21:48:33.569399+00:00",
-  "lastSuccessfulFetch": "2026-10-14T21:48:33.569399+00:00",
+  "checkedAt": "2026-10-15T04:52:55.450246+00:00",
+  "lastSuccessfulFetch": "2026-10-15T04:52:55.450246+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T21:48:33.569399+00:00",
-      "items": 11
+      "checkedAt": "2026-10-15T04:52:55.450246+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T21:48:33.569399+00:00",
+      "checkedAt": "2026-10-15T04:52:55.450246+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "4b22ffd17b7b9ac6",
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T02:26:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "eabcd42a819b6b05",
       "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
@@ -976,18 +988,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d954f5ec6b0d90e1",
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T03:32:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
