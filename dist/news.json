@@ -1,24 +1,74 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-15T04:52:55.450246+00:00",
-  "lastSuccessfulFetch": "2026-10-15T04:52:55.450246+00:00",
+  "checkedAt": "2026-10-15T11:44:00.469779+00:00",
+  "lastSuccessfulFetch": "2026-10-15T11:44:00.469779+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T04:52:55.450246+00:00",
-      "items": 8
+      "checkedAt": "2026-10-15T11:44:00.469779+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T04:52:55.450246+00:00",
+      "checkedAt": "2026-10-15T11:44:00.469779+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "64e921aaa04cd034",
+      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T10:27:26+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c444735eead8c31a",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T08:17:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8b4e9c907aa4329d",
+      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T07:25:54+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "48e79591e33b5b48",
+      "title": "North Korea and China open new bridge after 12-year delay",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T06:24:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "PRK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "4b22ffd17b7b9ac6",
       "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
@@ -28,6 +78,44 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b8e9b61a18859af0",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T23:32:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0dea10406e1d83cc",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T23:02:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6cf513a2aadcf3b8",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-14T23:01:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -903,91 +991,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "045845acfa6c0747",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T09:56:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "KOR",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c2494a992a48d078",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T08:18:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7ef7a15d9bee089f",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T08:13:52+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "71f83f78f061da79",
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T05:06:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8d9f4fff07ff0c01",
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T05:00:44+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "21dbc3bb11b8ef37",
-      "title": "Veteran Indian actor Nana Patekar dies at 75",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T03:41:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "db17a20213d576c0",
-      "title": "France's school protests: What lies behind the anger",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-08T03:38:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
