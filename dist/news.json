@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-16T16:47:11.518081+00:00",
-  "lastSuccessfulFetch": "2026-10-16T16:47:11.518081+00:00",
+  "checkedAt": "2026-10-16T21:23:47.566848+00:00",
+  "lastSuccessfulFetch": "2026-10-16T21:23:47.566848+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T16:47:11.518081+00:00",
-      "items": 18
+      "checkedAt": "2026-10-16T21:23:47.566848+00:00",
+      "items": 19
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T16:47:11.518081+00:00",
-      "items": 4
+      "checkedAt": "2026-10-16T21:23:47.566848+00:00",
+      "items": 3
     }
   ],
   "items": [
+    {
+      "id": "74e8f5bb1ee5ef06",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T19:33:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "271cee953f72a11c",
+      "title": "What we learned from heated US midterm Senate debates",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T19:09:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "76ac965f5c723a26",
       "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
@@ -967,31 +991,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-10T05:48:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d3af5cec0fbba1c6",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T04:51:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "49fc2e76b3073051",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T02:02:54+00:00",
       "eventDate": null,
       "countries": [
         "USA"
