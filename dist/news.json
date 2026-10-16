@@ -1,24 +1,100 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-16T11:37:52.366588+00:00",
-  "lastSuccessfulFetch": "2026-10-16T11:37:52.366588+00:00",
+  "checkedAt": "2026-10-16T16:47:11.518081+00:00",
+  "lastSuccessfulFetch": "2026-10-16T16:47:11.518081+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T11:37:52.366588+00:00",
+      "checkedAt": "2026-10-16T16:47:11.518081+00:00",
       "items": 18
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-16T11:37:52.366588+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-16T16:47:11.518081+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "76ac965f5c723a26",
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T16:00:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e689e5ff26a2acf5",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T15:45:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b41684a8072def39",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T14:31:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0446e5ab7c62b132",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T14:19:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6cc2f945a0a151e5",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T11:44:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "42ceb7372686636b",
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T11:40:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "3ef08d1596a4bfa1",
       "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
@@ -916,78 +992,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-10T02:02:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8293ba95ca8f5188",
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T23:24:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "45ee4516e19b1b58",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T22:30:22+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "be81e1bb6c9a7ce9",
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T21:55:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "26642edca61eefe9",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T21:54:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "22a5f858763d26f1",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T18:40:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "538442b5a32e3ce1",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T17:36:09+00:00",
       "eventDate": null,
       "countries": [
         "USA"
