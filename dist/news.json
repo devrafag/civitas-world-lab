@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-15T21:32:00.874574+00:00",
-  "lastSuccessfulFetch": "2026-10-15T21:32:00.874574+00:00",
+  "checkedAt": "2026-10-16T04:43:54.908292+00:00",
+  "lastSuccessfulFetch": "2026-10-16T04:43:54.908292+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T21:32:00.874574+00:00",
-      "items": 15
+      "checkedAt": "2026-10-16T04:43:54.908292+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T21:32:00.874574+00:00",
-      "items": 3
+      "checkedAt": "2026-10-16T04:43:54.908292+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "ef941bebd76cda1b",
+      "title": "Three children and teacher killed in US primary school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-16T03:45:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5e8772258e5906da",
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T23:27:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "fd23cb2b8e7991af",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T23:25:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "52215fea55d1b9dc",
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -40,6 +76,18 @@
       "eventDate": null,
       "countries": [
         "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e0f9481fcce76623",
+      "title": "At the scene of a school roof collapse in Pakistan",
+      "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-15T20:31:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "PAK"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -89,6 +137,18 @@
       "eventDate": null,
       "countries": [
         "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2e4333c4dbef6457",
+      "title": "Ucrania: los ataques rusos destruyen suministros médicos por valor de 1,5 millones de dólares",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542067",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-15T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -931,66 +991,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2e892df7375200df",
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T11:35:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ecf72f5ac7635ed0",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T10:07:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ace2ba4323a38e19",
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T07:19:24+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "16017a9d2d5b1be0",
-      "title": "Why Elon Musk is taking on India's richest man over Starlink",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T06:42:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4fecfd587bd80181",
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-09T04:53:50+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
