@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-17T04:41:15.510268+00:00",
-  "lastSuccessfulFetch": "2026-10-17T04:41:15.510268+00:00",
+  "checkedAt": "2026-10-17T10:58:00.485298+00:00",
+  "lastSuccessfulFetch": "2026-10-17T10:58:00.485298+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-17T04:41:15.510268+00:00",
-      "items": 17
+      "checkedAt": "2026-10-17T10:58:00.485298+00:00",
+      "items": 12
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-17T04:41:15.510268+00:00",
+      "checkedAt": "2026-10-17T10:58:00.485298+00:00",
       "items": 3
     }
   ],
   "items": [
+    {
+      "id": "77b386c30370c768",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-17T10:46:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "244ffc3b821d4ad7",
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
@@ -980,18 +992,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-10T19:08:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cd95a0b2b3e1bf45",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T17:44:26+00:00",
       "eventDate": null,
       "countries": [
         "USA"
