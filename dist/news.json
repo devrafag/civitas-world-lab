@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-18T15:59:17.036364+00:00",
-  "lastSuccessfulFetch": "2026-10-18T15:59:17.036364+00:00",
+  "checkedAt": "2026-10-18T20:54:13.633179+00:00",
+  "lastSuccessfulFetch": "2026-10-18T20:54:13.633179+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-18T15:59:17.036364+00:00",
-      "items": 14
+      "checkedAt": "2026-10-18T20:54:13.633179+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-18T15:59:17.036364+00:00",
-      "items": 3
+      "ok": false,
+      "checkedAt": "2026-10-18T20:54:13.633179+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "e5394eb93ed65f5c",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T20:33:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "0e4e8818e9343e50",
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -982,18 +994,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6563c1b8fad16be9",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-11T21:30:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
