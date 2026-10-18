@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-18T04:46:45.635115+00:00",
-  "lastSuccessfulFetch": "2026-10-18T04:46:45.635115+00:00",
+  "checkedAt": "2026-10-18T11:23:35.502478+00:00",
+  "lastSuccessfulFetch": "2026-10-18T11:23:35.502478+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-18T04:46:45.635115+00:00",
-      "items": 15
+      "checkedAt": "2026-10-18T11:23:35.502478+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-18T04:46:45.635115+00:00",
+      "checkedAt": "2026-10-18T11:23:35.502478+00:00",
       "items": 3
     }
   ],
   "items": [
+    {
+      "id": "0e4e8818e9343e50",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T05:04:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "0bd6429ce4de8bfb",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -982,19 +994,6 @@
       "eventDate": null,
       "countries": [
         "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9c456bbec7c9470c",
-      "title": "Ukraine strikes Russian data centre again despite Trump warning",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-11T12:50:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
