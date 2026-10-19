@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T04:55:05.841222+00:00",
-  "lastSuccessfulFetch": "2026-10-19T04:55:05.841222+00:00",
+  "checkedAt": "2026-10-19T13:37:59.219574+00:00",
+  "lastSuccessfulFetch": "2026-10-19T13:37:59.219574+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T04:55:05.841222+00:00",
-      "items": 14
+      "checkedAt": "2026-10-19T13:37:59.219574+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T04:55:05.841222+00:00",
+      "checkedAt": "2026-10-19T13:37:59.219574+00:00",
       "items": 3
     }
   ],
   "items": [
+    {
+      "id": "fca1d157876e3c16",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T08:17:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "80b190ae57e9dd27",
       "title": "France's government under pressure after weekend of widespread violence",
@@ -983,18 +995,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2f0532d8a8030249",
-      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-12T15:19:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
