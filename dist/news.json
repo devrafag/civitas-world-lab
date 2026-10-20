@@ -1,24 +1,72 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-20T05:01:24.417634+00:00",
-  "lastSuccessfulFetch": "2026-10-20T05:01:24.417634+00:00",
+  "checkedAt": "2026-10-20T11:51:29.218066+00:00",
+  "lastSuccessfulFetch": "2026-10-20T11:51:29.218066+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-20T05:01:24.417634+00:00",
-      "items": 14
+      "checkedAt": "2026-10-20T11:51:29.218066+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-20T05:01:24.417634+00:00",
+      "checkedAt": "2026-10-20T11:51:29.218066+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "a8903642cc44d53a",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T11:47:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ef624b68b0213a9b",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T11:30:59+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "754bf5eeaea9794b",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T08:53:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5f5ed2da3fd0ea68",
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T05:00:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "3d66577968695060",
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
@@ -124,6 +172,18 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e43025f9a3ce3ae9",
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T16:46:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -932,67 +992,6 @@
       "countries": [
         "RUS",
         "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "682415106c6cc7b9",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T23:42:22+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "723fdd12074bdad5",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T22:29:55+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "72373fdc8469d932",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T22:14:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e146c02a29a545e6",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T22:07:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a7c922face60d977",
-      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T22:02:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
