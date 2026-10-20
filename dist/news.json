@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-20T17:20:43.606929+00:00",
-  "lastSuccessfulFetch": "2026-10-20T17:20:43.606929+00:00",
+  "checkedAt": "2026-10-20T21:43:43.576322+00:00",
+  "lastSuccessfulFetch": "2026-10-20T21:43:43.576322+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-20T17:20:43.606929+00:00",
-      "items": 15
+      "checkedAt": "2026-10-20T21:43:43.576322+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-20T17:20:43.606929+00:00",
+      "checkedAt": "2026-10-20T21:43:43.576322+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "c038aa98247b21af",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T21:27:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "a8903642cc44d53a",
       "title": "Suspect arrested after historic town hall set alight - French media",
@@ -979,18 +991,6 @@
       "countries": [
         "RUS",
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4092a753c1b1f9a6",
-      "title": "World's oldest shipwreck found off coast of Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T05:00:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "TUR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
