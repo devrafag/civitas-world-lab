@@ -1,24 +1,72 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T22:29:05.793067+00:00",
-  "lastSuccessfulFetch": "2026-10-19T22:29:05.793067+00:00",
+  "checkedAt": "2026-10-20T05:01:24.417634+00:00",
+  "lastSuccessfulFetch": "2026-10-20T05:01:24.417634+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T22:29:05.793067+00:00",
-      "items": 13
+      "checkedAt": "2026-10-20T05:01:24.417634+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T22:29:05.793067+00:00",
+      "checkedAt": "2026-10-20T05:01:24.417634+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "3d66577968695060",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T23:30:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "MAR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5b65e4be446c3d29",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T23:04:08+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "22a5987fad73cb6e",
+      "title": "Clean up begins after French riots but police remain",
+      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T21:30:08+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8bc9310d464c3740",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T21:14:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "733cc19037e01703",
       "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -945,55 +993,6 @@
       "eventDate": null,
       "countries": [
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "bb637ece0a5f4eb6",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T22:00:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "994246342d5e43ad",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T21:42:49+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3bb4e3718ecf4e7f",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T19:23:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "291095c2d1fdbb68",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T15:52:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
