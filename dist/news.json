@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-20T21:43:43.576322+00:00",
-  "lastSuccessfulFetch": "2026-10-20T21:43:43.576322+00:00",
+  "checkedAt": "2026-10-21T05:01:13.790075+00:00",
+  "lastSuccessfulFetch": "2026-10-21T05:01:13.790075+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-20T21:43:43.576322+00:00",
-      "items": 14
+      "checkedAt": "2026-10-21T05:01:13.790075+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-20T21:43:43.576322+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-10-21T05:01:13.790075+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "cb7267ce7e1f5c98",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T02:37:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2672f6d202bb6655",
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T01:22:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "c038aa98247b21af",
       "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
@@ -965,31 +989,6 @@
       "publishedAt": "2026-10-14T11:32:07+00:00",
       "eventDate": null,
       "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "11f619156f457045",
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T10:50:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "TUR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "fcd01b7e9f9a501e",
-      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
-      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T09:25:03+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
         "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
