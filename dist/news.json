@@ -1,24 +1,62 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-21T05:01:13.790075+00:00",
-  "lastSuccessfulFetch": "2026-10-21T05:01:13.790075+00:00",
+  "checkedAt": "2026-10-21T12:02:59.227656+00:00",
+  "lastSuccessfulFetch": "2026-10-21T12:02:59.227656+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-21T05:01:13.790075+00:00",
-      "items": 13
+      "checkedAt": "2026-10-21T12:02:59.227656+00:00",
+      "items": 14
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-10-21T05:01:13.790075+00:00",
+      "checkedAt": "2026-10-21T12:02:59.227656+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "628236b1f71bbc8d",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T12:00:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6adc942b7c4985f5",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T08:31:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "12ef0f78fb8c244b",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T05:46:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cb7267ce7e1f5c98",
       "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
@@ -953,42 +991,6 @@
       "eventDate": null,
       "countries": [
         "USA",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f72fa532500caca1",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T15:54:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "96faa508b0e30813",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T15:26:14+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "38baf772a938d90f",
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T11:32:07+00:00",
-      "eventDate": null,
-      "countries": [
         "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
