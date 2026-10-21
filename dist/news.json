@@ -1,24 +1,50 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-21T12:02:59.227656+00:00",
-  "lastSuccessfulFetch": "2026-10-21T12:02:59.227656+00:00",
+  "checkedAt": "2026-10-21T17:22:59.689772+00:00",
+  "lastSuccessfulFetch": "2026-10-21T17:22:59.689772+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-21T12:02:59.227656+00:00",
-      "items": 14
+      "checkedAt": "2026-10-21T17:22:59.689772+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": false,
-      "checkedAt": "2026-10-21T12:02:59.227656+00:00",
+      "checkedAt": "2026-10-21T17:22:59.689772+00:00",
       "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "3222098e24245dc2",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T16:38:06+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "051968e48f9db0b9",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T14:04:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "628236b1f71bbc8d",
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
@@ -963,31 +989,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-14T20:55:24+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6dbdbd1096f471b8",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T19:52:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e7c3af778fcfbca8",
-      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T15:56:57+00:00",
       "eventDate": null,
       "countries": [
         "USA",
