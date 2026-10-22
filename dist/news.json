@@ -1,24 +1,97 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-21T21:50:21.006981+00:00",
-  "lastSuccessfulFetch": "2026-10-21T21:50:21.006981+00:00",
+  "checkedAt": "2026-10-22T05:03:36.230837+00:00",
+  "lastSuccessfulFetch": "2026-10-22T05:03:36.230837+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-21T21:50:21.006981+00:00",
-      "items": 16
+      "checkedAt": "2026-10-22T05:03:36.230837+00:00",
+      "items": 18
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-21T21:50:21.006981+00:00",
+      "checkedAt": "2026-10-22T05:03:36.230837+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "573a2b2f2f8b6156",
+      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T04:02:29+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ffeeec16638c5686",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T03:05:28+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ed29192ad3bd60e5",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T01:07:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "849ac4a6974795de",
+      "title": "The real reasons US politicians are getting older",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T23:52:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b4c060cbae4bd6a4",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T23:06:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "b49ba12f5a3a4647",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T22:00:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "16c82ec6f58e9644",
       "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
@@ -917,81 +990,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "64e921aaa04cd034",
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T10:27:26+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c444735eead8c31a",
-      "title": "Actor Imran Khan ordered to leave India after participating in protest",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T08:17:07+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8b4e9c907aa4329d",
-      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T07:25:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "48e79591e33b5b48",
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T06:24:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "PRK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4b22ffd17b7b9ac6",
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T02:26:07+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b8e9b61a18859af0",
-      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-14T23:32:11+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
