@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-22T12:06:17.660011+00:00",
-  "lastSuccessfulFetch": "2026-10-22T12:06:17.660011+00:00",
+  "checkedAt": "2026-10-22T17:20:31.173255+00:00",
+  "lastSuccessfulFetch": "2026-10-22T17:20:31.173255+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-22T12:06:17.660011+00:00",
-      "items": 20
+      "checkedAt": "2026-10-22T17:20:31.173255+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-22T12:06:17.660011+00:00",
+      "checkedAt": "2026-10-22T17:20:31.173255+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "ecf6562c63e86531",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T17:07:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "cb169dcb27c1cbe7",
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T15:22:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "76dc7a82ae7ef649",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T14:08:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "7ee6f3ff99e550d0",
       "title": "At least four dead after storm brings flooding to southern France",
@@ -953,42 +990,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "52215fea55d1b9dc",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T21:12:14+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b6036c97afbdca0c",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T20:52:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e0f9481fcce76623",
-      "title": "At the scene of a school roof collapse in Pakistan",
-      "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T20:31:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "PAK"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
