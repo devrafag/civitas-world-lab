@@ -1,24 +1,38 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-23T17:17:28.448555+00:00",
-  "lastSuccessfulFetch": "2026-10-23T17:17:28.448555+00:00",
+  "checkedAt": "2026-10-23T21:31:22.002564+00:00",
+  "lastSuccessfulFetch": "2026-10-23T21:31:22.002564+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-23T17:17:28.448555+00:00",
-      "items": 6
+      "checkedAt": "2026-10-23T21:31:22.002564+00:00",
+      "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-23T17:17:28.448555+00:00",
+      "checkedAt": "2026-10-23T21:31:22.002564+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "a0e0280cc8c3a81f",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T20:18:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cea5bb11177c1ce6",
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
@@ -979,18 +993,6 @@
       "countries": [
         "USA",
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6cc2f945a0a151e5",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T11:44:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
