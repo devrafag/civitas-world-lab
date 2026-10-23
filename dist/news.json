@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-23T05:03:39.439556+00:00",
-  "lastSuccessfulFetch": "2026-10-23T05:03:39.439556+00:00",
+  "checkedAt": "2026-10-23T11:50:35.153215+00:00",
+  "lastSuccessfulFetch": "2026-10-23T11:50:35.153215+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-23T05:03:39.439556+00:00",
-      "items": 13
+      "checkedAt": "2026-10-23T11:50:35.153215+00:00",
+      "items": 4
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-23T05:03:39.439556+00:00",
+      "checkedAt": "2026-10-23T11:50:35.153215+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "d3a44ec2b4dec1c0",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:45:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "TWN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "994427281c92bb67",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:39:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "2fc55096c931225c",
       "title": "Trump says Musk has restored Ukraine's internet access",
@@ -967,30 +992,6 @@
       "countries": [
         "CHN",
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "21783060a84578cc",
-      "title": "They fled Russia, but the West sent them back",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T04:57:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ef941bebd76cda1b",
-      "title": "Three children and teacher killed in US primary school shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T03:45:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
