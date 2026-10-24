@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T11:17:23.226294+00:00",
-  "lastSuccessfulFetch": "2026-10-24T11:17:23.226294+00:00",
+  "checkedAt": "2026-10-24T16:04:57.193303+00:00",
+  "lastSuccessfulFetch": "2026-10-24T16:04:57.193303+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T11:17:23.226294+00:00",
-      "items": 6
+      "checkedAt": "2026-10-24T16:04:57.193303+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-24T11:17:23.226294+00:00",
-      "items": 2
+      "ok": false,
+      "checkedAt": "2026-10-24T16:04:57.193303+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "af154c8b7028fa6b",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T12:12:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6221b4b7de9023e0",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T09:45:47+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "aee9d87fa08b66bc",
       "title": "The rise of AI election ads in US midterms campaign",
@@ -965,30 +989,6 @@
       "eventDate": null,
       "countries": [
         "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "74e8f5bb1ee5ef06",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T19:33:48+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "271cee953f72a11c",
-      "title": "What we learned from heated US midterm Senate debates",
-      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T19:09:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
