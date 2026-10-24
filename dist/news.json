@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T04:48:23.115045+00:00",
-  "lastSuccessfulFetch": "2026-10-24T04:48:23.115045+00:00",
+  "checkedAt": "2026-10-24T11:17:23.226294+00:00",
+  "lastSuccessfulFetch": "2026-10-24T11:17:23.226294+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T04:48:23.115045+00:00",
+      "checkedAt": "2026-10-24T11:17:23.226294+00:00",
       "items": 6
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T04:48:23.115045+00:00",
+      "checkedAt": "2026-10-24T11:17:23.226294+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "aee9d87fa08b66bc",
+      "title": "The rise of AI election ads in US midterms campaign",
+      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T05:03:44+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "a16392919788b46a",
       "title": "France prepares for day of protest a week after nationwide riots",
@@ -28,6 +40,30 @@
       "eventDate": null,
       "countries": [
         "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2d6ad3e7edc9cef1",
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T23:09:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1f9547d1f07b0ccc",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T22:24:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -953,45 +989,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "76ac965f5c723a26",
-      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T16:00:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e689e5ff26a2acf5",
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T15:45:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b41684a8072def39",
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T14:31:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
