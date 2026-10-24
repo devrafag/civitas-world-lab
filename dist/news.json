@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T16:04:57.193303+00:00",
-  "lastSuccessfulFetch": "2026-10-24T16:04:57.193303+00:00",
+  "checkedAt": "2026-10-24T20:59:00.703815+00:00",
+  "lastSuccessfulFetch": "2026-10-24T20:59:00.703815+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T16:04:57.193303+00:00",
+      "checkedAt": "2026-10-24T20:59:00.703815+00:00",
       "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-24T16:04:57.193303+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-24T20:59:00.703815+00:00",
+      "items": 2
     }
   ],
   "items": [
+    {
+      "id": "3fcd6f10560124f9",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T17:21:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "af154c8b7028fa6b",
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -977,18 +989,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "00f30d32b87311f1",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T23:07:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
