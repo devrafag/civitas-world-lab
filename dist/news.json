@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-25T04:56:53.262141+00:00",
-  "lastSuccessfulFetch": "2026-10-25T04:56:53.262141+00:00",
+  "checkedAt": "2026-10-25T11:46:38.923822+00:00",
+  "lastSuccessfulFetch": "2026-10-25T11:46:38.923822+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-25T04:56:53.262141+00:00",
-      "items": 9
+      "checkedAt": "2026-10-25T11:46:38.923822+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-25T04:56:53.262141+00:00",
+      "checkedAt": "2026-10-25T11:46:38.923822+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "e764a5389607640e",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T09:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aaa731da7deaa2d7",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T05:45:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ff00da6ff48d059a",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T05:15:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "431f5566a31b29b4",
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
@@ -28,6 +64,30 @@
       "eventDate": null,
       "countries": [
         "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9374b36218aa40d4",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T23:03:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6e81a0dcdc2b3044",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T23:02:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -928,67 +988,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "20938e43864dab7d",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T12:11:58+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "77b386c30370c768",
-      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T10:46:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2c85031267de3064",
-      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T09:58:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "244ffc3b821d4ad7",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T03:11:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b677fdedabaf4479",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T02:48:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
