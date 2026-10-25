@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T20:59:00.703815+00:00",
-  "lastSuccessfulFetch": "2026-10-24T20:59:00.703815+00:00",
+  "checkedAt": "2026-10-25T04:56:53.262141+00:00",
+  "lastSuccessfulFetch": "2026-10-25T04:56:53.262141+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T20:59:00.703815+00:00",
-      "items": 8
+      "checkedAt": "2026-10-25T04:56:53.262141+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T20:59:00.703815+00:00",
+      "checkedAt": "2026-10-25T04:56:53.262141+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "431f5566a31b29b4",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T04:16:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "3fcd6f10560124f9",
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
@@ -977,18 +989,6 @@
       "countries": [
         "USA",
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "206ad3070cd6cc2f",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-16T23:54:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
