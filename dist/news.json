@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-25T20:59:02.394598+00:00",
-  "lastSuccessfulFetch": "2026-10-25T20:59:02.394598+00:00",
+  "checkedAt": "2026-10-26T05:00:15.532437+00:00",
+  "lastSuccessfulFetch": "2026-10-26T05:00:15.532437+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-25T20:59:02.394598+00:00",
-      "items": 7
+      "checkedAt": "2026-10-26T05:00:15.532437+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-25T20:59:02.394598+00:00",
+      "checkedAt": "2026-10-26T05:00:15.532437+00:00",
       "items": 2
     }
   ],
   "items": [
+    {
+      "id": "fe2cbd9325d39f55",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T22:11:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d3d23ea5050c7b57",
+      "title": "Why Israel's election is one of the most important in its history",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T22:05:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "e764a5389607640e",
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -964,30 +988,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a2a6b621103cfd0a",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T20:52:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6d09bb2727e7ee9f",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T19:19:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
