@@ -1,24 +1,75 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-26T13:19:21.021791+00:00",
-  "lastSuccessfulFetch": "2026-10-26T13:19:21.021791+00:00",
+  "checkedAt": "2026-10-26T22:46:14.571105+00:00",
+  "lastSuccessfulFetch": "2026-10-26T22:46:14.571105+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-26T13:19:21.021791+00:00",
-      "items": 8
+      "checkedAt": "2026-10-26T22:46:14.571105+00:00",
+      "items": 6
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-26T13:19:21.021791+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-26T22:46:14.571105+00:00",
+      "items": 1
     }
   ],
   "items": [
+    {
+      "id": "f97b5c2a5326f2dc",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T17:00:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "DZA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "cad1758efc854041",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T16:30:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1ee616a24c0ec358",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T14:13:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "JPN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6b311e4d5cb1d0a2",
+      "title": "Una Comisión acusa a Rusia de crímenes de guerra por sus ataques a la energía en Ucrania",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542104",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-26T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "8f8ad708ddef06c7",
       "title": "Five ways Trump has changed immigration in the US",
@@ -940,55 +991,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2064d808e1e7e059",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T23:28:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "96a1d05f6574f4f5",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T23:20:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6ef5628df05faefd",
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T22:22:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d54fc7597418b304",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T21:00:22+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
