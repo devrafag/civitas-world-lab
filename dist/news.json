@@ -1,24 +1,84 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-27T05:17:12.297554+00:00",
-  "lastSuccessfulFetch": "2026-10-27T05:17:12.297554+00:00",
+  "checkedAt": "2026-10-27T12:27:23.729788+00:00",
+  "lastSuccessfulFetch": "2026-10-27T12:27:23.729788+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-27T05:17:12.297554+00:00",
-      "items": 6
+      "checkedAt": "2026-10-27T12:27:23.729788+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-27T05:17:12.297554+00:00",
+      "checkedAt": "2026-10-27T12:27:23.729788+00:00",
       "items": 3
     }
   ],
   "items": [
+    {
+      "id": "4fc5953b2bfdb1bd",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T12:02:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8aa0deec5984dc49",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:53:57+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a8b557c74308b442",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:23:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0c845ea173953c6e",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T10:17:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "05cc728f68ac0565",
+      "title": "Why it could take time for a new Israeli government to form",
+      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T08:37:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "f97b5c2a5326f2dc",
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
@@ -928,66 +988,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-19T15:21:03+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4e76560a44792de6",
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T14:13:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e9f9cfe38be1d304",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T14:06:53+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c86a1dae9a100868",
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T13:43:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "fca1d157876e3c16",
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T08:17:19+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "80b190ae57e9dd27",
-      "title": "France's government under pressure after weekend of widespread violence",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T04:16:46+00:00",
       "eventDate": null,
       "countries": [
         "FRA"
