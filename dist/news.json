@@ -1,24 +1,132 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T13:14:03.584058+00:00",
-  "lastSuccessfulFetch": "2026-10-28T13:14:03.584058+00:00",
+  "checkedAt": "2026-10-28T22:42:02.034324+00:00",
+  "lastSuccessfulFetch": "2026-10-28T22:42:02.034324+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-28T13:14:03.584058+00:00",
-      "items": 9
+      "checkedAt": "2026-10-28T22:42:02.034324+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-10-28T13:14:03.584058+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-10-28T22:42:02.034324+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "881b52d1edde21e3",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T22:08:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "99093cee53b4403a",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T21:38:54+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "acb566103b1edafc",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T21:24:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "172511e4d8212d97",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T21:16:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ff9d0f685de61659",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T20:53:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d1f92f29ac2ee13c",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T20:24:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c99623333e4299ed",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T16:45:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2ba00454c3d080a3",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T14:30:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1a399fb7cac0a18c",
+      "title": "Israel's election result is messy - here's why",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T14:26:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "db525af4b0f26e4c",
       "title": "What we know so far about deadly Spain train crash",
@@ -28,6 +136,18 @@
       "eventDate": null,
       "countries": [
         "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e0cc53fd1149ba6a",
+      "title": "La ONU vuelve a rechazar el embargo de Estados Unidos a Cuba",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542113",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-28T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -150,6 +270,30 @@
       "eventDate": null,
       "countries": [
         "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "82bcc7277a6b35cf",
+      "title": "El embargo de Estados Unidos a Cuba vuelve a la ONU (que ya lo ha rechazado 33 veces)",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542112",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-27T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dfbf6515cbae1b8f",
+      "title": "Emisiones, Ucrania, ébola, trabajo doméstico… Las noticias del martes",
+      "url": "https://news.un.org/feed/view/es/story/2026/10/1542110",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-10-27T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -847,152 +991,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "628236b1f71bbc8d",
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T12:00:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6adc942b7c4985f5",
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T08:31:48+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "12ef0f78fb8c244b",
-      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T05:46:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cb7267ce7e1f5c98",
-      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T02:37:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2672f6d202bb6655",
-      "title": "France is divided over who to blame for weekend riots and what to learn from them",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T01:22:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c038aa98247b21af",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T21:27:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a8903642cc44d53a",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T11:47:39+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "034011bc826887d5",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T11:45:49+00:00",
-      "eventDate": null,
-      "countries": [
-        "PRK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ef624b68b0213a9b",
-      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T11:30:59+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "754bf5eeaea9794b",
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T08:53:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5f5ed2da3fd0ea68",
-      "title": "How is the US economy really doing under President Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T05:00:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3d66577968695060",
-      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T23:30:03+00:00",
-      "eventDate": null,
-      "countries": [
-        "MAR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
