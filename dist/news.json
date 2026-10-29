@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T22:42:02.034324+00:00",
-  "lastSuccessfulFetch": "2026-10-28T22:42:02.034324+00:00",
+  "checkedAt": "2026-10-29T06:01:35.450142+00:00",
+  "lastSuccessfulFetch": "2026-10-29T06:01:35.450142+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-28T22:42:02.034324+00:00",
+      "checkedAt": "2026-10-29T06:01:35.450142+00:00",
       "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-28T22:42:02.034324+00:00",
-      "items": 6
+      "ok": false,
+      "checkedAt": "2026-10-29T06:01:35.450142+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
