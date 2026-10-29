@@ -1,24 +1,85 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29T13:21:09.009284+00:00",
-  "lastSuccessfulFetch": "2026-10-29T13:21:09.009284+00:00",
+  "checkedAt": "2026-10-29T22:51:41.942011+00:00",
+  "lastSuccessfulFetch": "2026-10-29T22:51:41.942011+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-29T13:21:09.009284+00:00",
-      "items": 14
+      "checkedAt": "2026-10-29T22:51:41.942011+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-29T13:21:09.009284+00:00",
+      "checkedAt": "2026-10-29T22:51:41.942011+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "b884c124cf382ac2",
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T21:33:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "67dccefc1b2a71f3",
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T20:50:25+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0429e0fa053cab36",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T20:21:54+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "fab0cbed0e945e17",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T14:17:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "240852db51392a02",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T13:44:39+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d4fb7d19c702c342",
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
@@ -928,67 +989,6 @@
       "eventDate": null,
       "countries": [
         "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c27fecf797decf78",
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T05:30:22+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "573a2b2f2f8b6156",
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T04:02:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ffeeec16638c5686",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T03:05:28+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ed29192ad3bd60e5",
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T01:07:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "849ac4a6974795de",
-      "title": "The real reasons US politicians are getting older",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:52:12+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
