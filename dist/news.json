@@ -1,24 +1,84 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-30T06:01:51.632234+00:00",
-  "lastSuccessfulFetch": "2026-10-30T06:01:51.632234+00:00",
+  "checkedAt": "2026-10-30T13:12:22.686104+00:00",
+  "lastSuccessfulFetch": "2026-10-30T13:12:22.686104+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-30T06:01:51.632234+00:00",
-      "items": 12
+      "checkedAt": "2026-10-30T13:12:22.686104+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-30T06:01:51.632234+00:00",
+      "checkedAt": "2026-10-30T13:12:22.686104+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "8aeda3af1b304b59",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T13:03:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d739e6ac886f7d18",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T12:25:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "43d3c4ff1e9f08c7",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T10:07:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3b249b3e23b9ae13",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T08:32:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8db784f419fa5bf8",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T07:53:38+00:00",
+      "eventDate": null,
+      "countries": [
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "b884c124cf382ac2",
       "title": "Young athlete and former minister among victims of Spain train crash",
@@ -65,6 +125,18 @@
       "countries": [
         "RUS",
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2ac4f8c7d0636841",
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T14:08:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -917,78 +989,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "76dc7a82ae7ef649",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T14:08:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7ee6f3ff99e550d0",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:23:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ddf54823830bcf52",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:04:14+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c289548e4451556b",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T10:16:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "KOR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "decbacb792c1a71b",
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T09:27:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "92aa4d57e32d6cfe",
-      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T09:14:48+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
