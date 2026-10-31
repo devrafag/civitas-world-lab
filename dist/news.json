@@ -1,24 +1,84 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-30T22:29:46.885842+00:00",
-  "lastSuccessfulFetch": "2026-10-30T22:29:46.885842+00:00",
+  "checkedAt": "2026-10-31T05:57:35.124911+00:00",
+  "lastSuccessfulFetch": "2026-10-31T05:57:35.124911+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-30T22:29:46.885842+00:00",
-      "items": 17
+      "checkedAt": "2026-10-31T05:57:35.124911+00:00",
+      "items": 19
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-10-30T22:29:46.885842+00:00",
-      "items": 6
+      "ok": false,
+      "checkedAt": "2026-10-31T05:57:35.124911+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "0783a78dc33abe0d",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T05:44:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d13e42607d018e9c",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T02:12:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "PRK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8e8611842ca83b6a",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T02:02:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e85dec1206a34e4b",
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T00:16:03+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4846aabaff860d65",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T23:19:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "736c0e058d642f6b",
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -922,66 +982,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-24T12:12:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6221b4b7de9023e0",
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T09:45:47+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "aee9d87fa08b66bc",
-      "title": "The rise of AI election ads in US midterms campaign",
-      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T05:03:44+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a16392919788b46a",
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T04:03:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2d6ad3e7edc9cef1",
-      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T23:09:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1f9547d1f07b0ccc",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T22:24:36+00:00",
       "eventDate": null,
       "countries": [
         "UKR"
