@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-31T12:48:27.268768+00:00",
-  "lastSuccessfulFetch": "2026-10-31T12:48:27.268768+00:00",
+  "checkedAt": "2026-10-31T21:44:14.469941+00:00",
+  "lastSuccessfulFetch": "2026-10-31T21:44:14.469941+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-31T12:48:27.268768+00:00",
-      "items": 20
+      "checkedAt": "2026-10-31T21:44:14.469941+00:00",
+      "items": 15
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-31T12:48:27.268768+00:00",
+      "checkedAt": "2026-10-31T21:44:14.469941+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "2eb9ed0951b88425",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T19:22:26+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "deefa82a83a2bcad",
       "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
@@ -974,18 +986,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6e81a0dcdc2b3044",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T23:02:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
