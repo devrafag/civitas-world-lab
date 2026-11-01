@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-01T06:26:21.908191+00:00",
-  "lastSuccessfulFetch": "2026-11-01T06:26:21.908191+00:00",
+  "checkedAt": "2026-11-01T17:59:00.811589+00:00",
+  "lastSuccessfulFetch": "2026-11-01T17:59:00.811589+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-01T06:26:21.908191+00:00",
-      "items": 12
+      "checkedAt": "2026-11-01T17:59:00.811589+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-01T06:26:21.908191+00:00",
+      "checkedAt": "2026-11-01T17:59:00.811589+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "947eeaf0750c1a62",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T17:06:32+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "f845da07825410f4",
       "title": "Shops looted as German cost of living protests turn violent",
@@ -28,6 +40,18 @@
       "eventDate": null,
       "countries": [
         "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9ff61a3915cfa949",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T00:27:33+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -962,30 +986,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "aaa731da7deaa2d7",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T05:45:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ff00da6ff48d059a",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T05:15:52+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
