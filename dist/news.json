@@ -1,24 +1,146 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-02T06:27:30.750802+00:00",
-  "lastSuccessfulFetch": "2026-11-02T06:27:30.750802+00:00",
+  "checkedAt": "2026-11-02T21:48:33.954267+00:00",
+  "lastSuccessfulFetch": "2026-11-02T21:48:33.954267+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-02T06:27:30.750802+00:00",
-      "items": 13
+      "checkedAt": "2026-11-02T21:48:33.954267+00:00",
+      "items": 16
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-02T06:27:30.750802+00:00",
+      "checkedAt": "2026-11-02T21:48:33.954267+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "9bcfdc55331da27b",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T21:10:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f9c15bc934819c09",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T20:54:44+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2fe762314e024e09",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T19:33:10+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5772877934dbf8da",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T18:34:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6b62f0830533dc7d",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T17:33:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0bd2d47a6d6698b3",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T14:24:25+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0e66e15a18ddfbc8",
+      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T13:49:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dfe3ddb2f6f0a547",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T06:05:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9e197db2782d3caa",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T06:00:54+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "89fc8f48f3fc7507",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T03:58:38+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "105dd427b029f799",
       "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
@@ -863,129 +985,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0c845ea173953c6e",
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T10:17:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "05cc728f68ac0565",
-      "title": "Why it could take time for a new Israeli government to form",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T08:37:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f97b5c2a5326f2dc",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T17:00:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "DZA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cad1758efc854041",
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T16:30:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1ee616a24c0ec358",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T14:13:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "790ae95e8c8ffabf",
-      "title": "Cisjordania: una comisión de investigación de la ONU acusa a Israel de “exterminio”",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542108",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-26T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "55204ba5e60b2ce7",
-      "title": "Palestina, Ucrania, niños en conflictos, Ébola… Las noticias del lunes",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542106",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-26T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6b311e4d5cb1d0a2",
-      "title": "Una Comisión acusa a Rusia de crímenes de guerra por sus ataques a la energía en Ucrania",
-      "url": "https://news.un.org/feed/view/es/story/2026/10/1542104",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-10-26T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8f8ad708ddef06c7",
-      "title": "Five ways Trump has changed immigration in the US",
-      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T11:29:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c8c0cab2bafd8dbc",
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T07:40:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
