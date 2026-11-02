@@ -1,24 +1,48 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-01T22:11:36.301702+00:00",
-  "lastSuccessfulFetch": "2026-11-01T22:11:36.301702+00:00",
+  "checkedAt": "2026-11-02T06:27:30.750802+00:00",
+  "lastSuccessfulFetch": "2026-11-02T06:27:30.750802+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-01T22:11:36.301702+00:00",
-      "items": 12
+      "checkedAt": "2026-11-02T06:27:30.750802+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-01T22:11:36.301702+00:00",
+      "checkedAt": "2026-11-02T06:27:30.750802+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "105dd427b029f799",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T01:18:27+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9e63bf21a4708cbb",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T00:15:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d99340fc39d91895",
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -962,30 +986,6 @@
       "eventDate": null,
       "countries": [
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b5602e38a0898dda",
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
-      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T01:09:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "fe2cbd9325d39f55",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T22:11:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
