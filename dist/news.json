@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-04T19:53:52.126631+00:00",
-  "lastSuccessfulFetch": "2026-11-04T19:53:52.126631+00:00",
+  "checkedAt": "2026-11-05T07:01:35.276099+00:00",
+  "lastSuccessfulFetch": "2026-11-05T07:01:35.276099+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-04T19:53:52.126631+00:00",
-      "items": 10
+      "checkedAt": "2026-11-05T07:01:35.276099+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-04T19:53:52.126631+00:00",
+      "checkedAt": "2026-11-05T07:01:35.276099+00:00",
       "items": 7
     }
   ],
   "items": [
+    {
+      "id": "e6b199bf98c83979",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T03:47:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "5d000570d3259a75",
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
@@ -976,18 +988,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ff9d0f685de61659",
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T20:53:02+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
