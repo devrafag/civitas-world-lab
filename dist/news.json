@@ -1,24 +1,73 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-05T20:06:32.816539+00:00",
-  "lastSuccessfulFetch": "2026-11-05T20:06:32.816539+00:00",
+  "checkedAt": "2026-11-06T07:01:27.701166+00:00",
+  "lastSuccessfulFetch": "2026-11-06T07:01:27.701166+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-05T20:06:32.816539+00:00",
-      "items": 5
+      "checkedAt": "2026-11-06T07:01:27.701166+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-05T20:06:32.816539+00:00",
-      "items": 6
+      "checkedAt": "2026-11-06T07:01:27.701166+00:00",
+      "items": 7
     }
   ],
   "items": [
+    {
+      "id": "7b014650a0356d3f",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T06:01:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7f806f4d6ebc196f",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T06:00:59+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e0b609f23f25c318",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T06:00:46+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR",
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2a46dc0a00e65778",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T23:16:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "cf91e8ba59594a0e",
       "title": "Eight killed in series of shootings in western Turkey",
@@ -53,6 +102,18 @@
       "eventDate": null,
       "countries": [
         "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "174174c564935914",
+      "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-05T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "GBR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -925,67 +986,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-10-29T11:25:16+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "927aa9df16c83934",
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T11:07:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "1acfb4d4660a81a3",
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T09:17:05+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d2c1e21cbe5f74d3",
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T08:23:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5447372ee9e21e4c",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T07:54:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "JPN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e19bd8c686545cca",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T01:30:43+00:00",
       "eventDate": null,
       "countries": [
         "USA"
