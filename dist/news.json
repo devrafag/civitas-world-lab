@@ -1,24 +1,49 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T13:18:43.434559+00:00",
-  "lastSuccessfulFetch": "2026-11-07T13:18:43.434559+00:00",
+  "checkedAt": "2026-11-07T22:01:43.472353+00:00",
+  "lastSuccessfulFetch": "2026-11-07T22:01:43.472353+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-07T13:18:43.434559+00:00",
+      "checkedAt": "2026-11-07T22:01:43.472353+00:00",
       "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-11-07T13:18:43.434559+00:00",
-      "items": 6
+      "ok": false,
+      "checkedAt": "2026-11-07T22:01:43.472353+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "082aa9ac915444e4",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T18:14:38+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6d8a06c4630839f6",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T17:09:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "7bc889d73f785e59",
       "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
@@ -966,30 +991,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3b249b3e23b9ae13",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T08:32:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8db784f419fa5bf8",
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T07:53:38+00:00",
-      "eventDate": null,
-      "countries": [
-        "PAK"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
