@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T19:33:15.472457+00:00",
-  "lastSuccessfulFetch": "2026-11-06T19:33:15.472457+00:00",
+  "checkedAt": "2026-11-07T06:14:10.696095+00:00",
+  "lastSuccessfulFetch": "2026-11-07T06:14:10.696095+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-06T19:33:15.472457+00:00",
-      "items": 7
+      "checkedAt": "2026-11-07T06:14:10.696095+00:00",
+      "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-11-06T19:33:15.472457+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-11-07T06:14:10.696095+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "1ac43336cbc52c0f",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T17:44:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "bf1e47684d2f391c",
       "title": "Two dead after bus crashes in France, officials say",
@@ -53,6 +65,18 @@
       "eventDate": null,
       "countries": [
         "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "e1e27f93b99ec11a",
+      "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-06T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -965,30 +989,6 @@
       "eventDate": null,
       "countries": [
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "67dccefc1b2a71f3",
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T20:50:25+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0429e0fa053cab36",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T20:21:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
