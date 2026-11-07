@@ -1,24 +1,37 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T06:14:10.696095+00:00",
-  "lastSuccessfulFetch": "2026-11-07T06:14:10.696095+00:00",
+  "checkedAt": "2026-11-07T13:18:43.434559+00:00",
+  "lastSuccessfulFetch": "2026-11-07T13:18:43.434559+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-07T06:14:10.696095+00:00",
+      "checkedAt": "2026-11-07T13:18:43.434559+00:00",
       "items": 5
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-07T06:14:10.696095+00:00",
+      "checkedAt": "2026-11-07T13:18:43.434559+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "7bc889d73f785e59",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T12:49:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "1ac43336cbc52c0f",
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -977,18 +990,6 @@
       "eventDate": null,
       "countries": [
         "PAK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b884c124cf382ac2",
-      "title": "Young athlete and former minister among victims of Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T21:33:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
