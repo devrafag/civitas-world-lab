@@ -1,24 +1,182 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T07:30:27.872083+00:00",
-  "lastSuccessfulFetch": "2026-11-10T07:30:27.872083+00:00",
+  "checkedAt": "2026-11-10T19:51:40.705260+00:00",
+  "lastSuccessfulFetch": "2026-11-10T19:51:40.705260+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-10T07:30:27.872083+00:00",
-      "items": 14
+      "checkedAt": "2026-11-10T19:51:40.705260+00:00",
+      "items": 18
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-10T07:30:27.872083+00:00",
-      "items": 4
+      "checkedAt": "2026-11-10T19:51:40.705260+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "55b4bc03a0eb318e",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T18:35:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c20c2bdeabaf1213",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T17:59:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "79d2d8b7c1cd87dd",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T17:03:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "793fbc27b19f011b",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T17:00:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "119606f9f2d23278",
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T16:19:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "af1eb0f1fbea412d",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T15:21:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "fb294595803529a7",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:23:54+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3eb1051be09e343e",
+      "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-10T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7f52167f7e4be03d",
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T11:25:46+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aa0c24a4bfc70983",
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T11:23:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "111321412806ad70",
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:37:15+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9d5d87a4a4770378",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:23:55+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0cb678cb8f1012f5",
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T06:23:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "2f68b82d21faa9dd",
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
@@ -835,164 +993,6 @@
       "eventDate": null,
       "countries": [
         "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9e197db2782d3caa",
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T06:00:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "89fc8f48f3fc7507",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T03:58:38+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "105dd427b029f799",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T01:18:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9e63bf21a4708cbb",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T00:15:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d99340fc39d91895",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T21:55:01+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f82d36e932f57057",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T18:51:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "947eeaf0750c1a62",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T17:06:32+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d35ebe7fd60cb9cd",
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T17:05:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f845da07825410f4",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T01:59:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "DEU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9ff61a3915cfa949",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:27:33+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9fdd859de5445198",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:12:07+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2eb9ed0951b88425",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T19:22:26+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "deefa82a83a2bcad",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T12:05:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
