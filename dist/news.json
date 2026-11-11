@@ -1,24 +1,99 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T19:51:40.705260+00:00",
-  "lastSuccessfulFetch": "2026-11-10T19:51:40.705260+00:00",
+  "checkedAt": "2026-11-11T06:47:25.260167+00:00",
+  "lastSuccessfulFetch": "2026-11-11T06:47:25.260167+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-10T19:51:40.705260+00:00",
-      "items": 18
+      "checkedAt": "2026-11-11T06:47:25.260167+00:00",
+      "items": 19
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-10T19:51:40.705260+00:00",
+      "checkedAt": "2026-11-11T06:47:25.260167+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "bb354b722b4500e4",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T03:26:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "bf0354919e892807",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T01:01:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "caa7edcd13864ef4",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T00:26:02+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9435eb24521189ad",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T22:52:15+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "78377496e414ed1c",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T20:46:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aebc2df496384854",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T20:20:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "55b4bc03a0eb318e",
       "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
@@ -28,6 +103,18 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6dd43c8324543e89",
+      "title": "Arrests made after visit from former US President Biden",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T18:07:56+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -908,91 +995,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2fe762314e024e09",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T19:33:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5772877934dbf8da",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T18:34:24+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6b62f0830533dc7d",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T17:33:19+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0bd2d47a6d6698b3",
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T14:24:25+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0e66e15a18ddfbc8",
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T13:49:19+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0e22239435b6f14b",
-      "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
-      "url": "https://news.un.org/feed/view/es/story/2026/11/1542133",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-11-02T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "dfe3ddb2f6f0a547",
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T06:05:34+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
