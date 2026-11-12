@@ -1,24 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T19:43:54.415920+00:00",
-  "lastSuccessfulFetch": "2026-11-11T19:43:54.415920+00:00",
+  "checkedAt": "2026-11-12T07:25:32.993092+00:00",
+  "lastSuccessfulFetch": "2026-11-12T07:25:32.993092+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-11T19:43:54.415920+00:00",
-      "items": 8
+      "checkedAt": "2026-11-12T07:25:32.993092+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-11T19:43:54.415920+00:00",
+      "checkedAt": "2026-11-12T07:25:32.993092+00:00",
       "items": 5
     }
   ],
   "items": [
+    {
+      "id": "7c670ec87508ee71",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T06:12:05+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "5df5b13482c35b65",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T05:59:18+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ccc2ffd18d2431da",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T04:03:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "7dfc53730f00e86a",
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -54,6 +91,18 @@
       "countries": [
         "USA",
         "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f2638f7d630ee77c",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T11:33:24+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -945,57 +994,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ae43a1144d347bed",
-      "title": "Why a US-Russia showdown left Morocco celebrating",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T07:29:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS",
-        "MAR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "bea48636cc0f4d36",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T07:15:17+00:00",
-      "eventDate": null,
-      "countries": [
-        "SAU"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "860a0e7c55bab773",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T06:22:29+00:00",
-      "eventDate": null,
-      "countries": [
-        "PRK"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "fe01e4934507b524",
-      "title": "US strikes Iran ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T03:39:08+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
