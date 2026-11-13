@@ -1,24 +1,96 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T06:57:32.481572+00:00",
-  "lastSuccessfulFetch": "2026-11-13T06:57:32.481572+00:00",
+  "checkedAt": "2026-11-13T19:52:44.032484+00:00",
+  "lastSuccessfulFetch": "2026-11-13T19:52:44.032484+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-13T06:57:32.481572+00:00",
-      "items": 10
+      "checkedAt": "2026-11-13T19:52:44.032484+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-11-13T06:57:32.481572+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-11-13T19:52:44.032484+00:00",
+      "items": 6
     }
   ],
   "items": [
+    {
+      "id": "b13e18c3f67ad0a3",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T16:40:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "bbd27f699d942e66",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:42:52+00:00",
+      "eventDate": null,
+      "countries": [
+        "DEU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "3bd74a2663b94069",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:16:50+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "bedeb45b11e16c20",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:09:40+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1383d3f72891184d",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T13:11:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2699a76e030ebddc",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T07:01:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "607d4d7557c40807",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -91,6 +163,18 @@
       "eventDate": null,
       "countries": [
         "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c719a48150247abb",
+      "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542168",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-12T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -908,91 +992,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-11-05T00:30:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5d000570d3259a75",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T18:01:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "16e3880f90bf9000",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T17:45:58+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "686a08ca0b1bb4ae",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T16:59:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2b8c441fd0c398af",
-      "title": "The young politicians with African roots making history in the US midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T16:34:32+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "91fc8537a51a82dc",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T16:26:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b3e17f1dddadae32",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T16:18:21+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3a0038a1a515bce7",
-      "title": "Everything you need to know from the US midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T14:05:42+00:00",
       "eventDate": null,
       "countries": [
         "USA"
