@@ -1,24 +1,63 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T20:08:17.354430+00:00",
-  "lastSuccessfulFetch": "2026-11-12T20:08:17.354430+00:00",
+  "checkedAt": "2026-11-13T06:57:32.481572+00:00",
+  "lastSuccessfulFetch": "2026-11-13T06:57:32.481572+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-12T20:08:17.354430+00:00",
-      "items": 9
+      "checkedAt": "2026-11-13T06:57:32.481572+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-11-12T20:08:17.354430+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-11-13T06:57:32.481572+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "607d4d7557c40807",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T03:57:01+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c4e104b78dbe843c",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T02:01:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "88784d92e59c8158",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T20:09:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "eabeef9e80729989",
       "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
@@ -957,42 +996,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cc6e34e4745db08d",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T11:46:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e86fdac192337a27",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T08:05:53+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c99cf4f2df7ba7e9",
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T03:46:10+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
