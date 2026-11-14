@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T19:52:44.032484+00:00",
-  "lastSuccessfulFetch": "2026-11-13T19:52:44.032484+00:00",
+  "checkedAt": "2026-11-14T06:44:30.598081+00:00",
+  "lastSuccessfulFetch": "2026-11-14T06:44:30.598081+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-13T19:52:44.032484+00:00",
-      "items": 8
+      "checkedAt": "2026-11-14T06:44:30.598081+00:00",
+      "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-13T19:52:44.032484+00:00",
+      "checkedAt": "2026-11-14T06:44:30.598081+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "c680cb902e27912f",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T05:52:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "79f1de58c4924ea5",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T01:47:36+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "27ac71ecb4e41dda",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T23:11:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "b13e18c3f67ad0a3",
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -959,42 +995,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "174174c564935914",
-      "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
-      "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-11-05T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e6b199bf98c83979",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T03:47:56+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "977168bf3f76e77a",
-      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T00:30:37+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
