@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T18:18:25.333063+00:00",
-  "lastSuccessfulFetch": "2026-11-14T18:18:25.333063+00:00",
+  "checkedAt": "2026-11-14T22:35:56.840350+00:00",
+  "lastSuccessfulFetch": "2026-11-14T22:35:56.840350+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-14T18:18:25.333063+00:00",
-      "items": 7
+      "checkedAt": "2026-11-14T22:35:56.840350+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-14T18:18:25.333063+00:00",
+      "checkedAt": "2026-11-14T22:35:56.840350+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "530533c1157d7fd4",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T20:03:48+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "1e4c1fc5abc49ad2",
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -983,18 +995,6 @@
       "eventDate": null,
       "countries": [
         "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "cf91e8ba59594a0e",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T19:32:54+00:00",
-      "eventDate": null,
-      "countries": [
-        "TUR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
