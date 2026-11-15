@@ -1,24 +1,85 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T06:49:35.580601+00:00",
-  "lastSuccessfulFetch": "2026-11-15T06:49:35.580601+00:00",
+  "checkedAt": "2026-11-15T18:58:07.368385+00:00",
+  "lastSuccessfulFetch": "2026-11-15T18:58:07.368385+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-15T06:49:35.580601+00:00",
-      "items": 9
+      "checkedAt": "2026-11-15T18:58:07.368385+00:00",
+      "items": 11
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-15T06:49:35.580601+00:00",
+      "checkedAt": "2026-11-15T18:58:07.368385+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "7c7b29f5e4c81914",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T18:08:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "56dedeeec32c3b29",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T14:56:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "aa8e6247d001d121",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T13:42:58+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9a149bdd0ac60957",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T13:37:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "KOR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "6b2e3c144cb16d98",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T08:17:41+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "9c404fd939f59376",
       "title": "Judo champion shakes up French presidential race with surprise candidacy",
@@ -934,67 +995,6 @@
       "eventDate": null,
       "countries": [
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d2b9303010106a59",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T10:21:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a4fee0499c3a64e8",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T07:33:41+00:00",
-      "eventDate": null,
-      "countries": [
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7b014650a0356d3f",
-      "title": "Did a data centre revolt affect the US mid-term election results?",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T06:01:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7f806f4d6ebc196f",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T06:00:59+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e0b609f23f25c318",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T06:00:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR",
-        "ESP"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
