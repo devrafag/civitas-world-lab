@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T22:35:56.840350+00:00",
-  "lastSuccessfulFetch": "2026-11-14T22:35:56.840350+00:00",
+  "checkedAt": "2026-11-15T06:49:35.580601+00:00",
+  "lastSuccessfulFetch": "2026-11-15T06:49:35.580601+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-14T22:35:56.840350+00:00",
+      "checkedAt": "2026-11-15T06:49:35.580601+00:00",
       "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-14T22:35:56.840350+00:00",
+      "checkedAt": "2026-11-15T06:49:35.580601+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "9c404fd939f59376",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T00:06:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "530533c1157d7fd4",
       "title": "How telecoms upgrade work sparked US flight chaos",
@@ -983,18 +995,6 @@
       "countries": [
         "GBR",
         "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "2a46dc0a00e65778",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T23:16:53+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
