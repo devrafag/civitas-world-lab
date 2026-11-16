@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T18:58:07.368385+00:00",
-  "lastSuccessfulFetch": "2026-11-15T18:58:07.368385+00:00",
+  "checkedAt": "2026-11-16T06:49:51.682650+00:00",
+  "lastSuccessfulFetch": "2026-11-16T06:49:51.682650+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-15T18:58:07.368385+00:00",
-      "items": 11
+      "checkedAt": "2026-11-16T06:49:51.682650+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-15T18:58:07.368385+00:00",
+      "checkedAt": "2026-11-16T06:49:51.682650+00:00",
       "items": 6
     }
   ],
   "items": [
+    {
+      "id": "7aa175f88067404d",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T00:13:14+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9e2be74d107ef8c1",
+      "title": "Canada bars Russia from Junior World Championships",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T22:01:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "ff02de9f850c3b8c",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T22:00:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "7c7b29f5e4c81914",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -958,43 +994,6 @@
       "eventDate": null,
       "countries": [
         "FRA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "58522887ad7d0857",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T13:23:44+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ca5031a28a3ec123",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T12:51:38+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e1e27f93b99ec11a",
-      "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
-      "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-11-06T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
