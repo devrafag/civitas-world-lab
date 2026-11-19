@@ -1,24 +1,74 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T07:39:40.835896+00:00",
-  "lastSuccessfulFetch": "2026-11-19T07:39:40.835896+00:00",
+  "checkedAt": "2026-11-19T20:49:01.455746+00:00",
+  "lastSuccessfulFetch": "2026-11-19T20:49:01.455746+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-19T07:39:40.835896+00:00",
-      "items": 19
+      "checkedAt": "2026-11-19T20:49:01.455746+00:00",
+      "items": 17
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-11-19T07:39:40.835896+00:00",
-      "items": 5
+      "ok": false,
+      "checkedAt": "2026-11-19T20:49:01.455746+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "92ca9ff247094edd",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T19:16:21+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0f1dfbdae502ca8b",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T13:31:23+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "eb1e212b48f5a233",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T12:56:30+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "7a2a34188fae0860",
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T11:38:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "ecb256426dd1c275",
       "title": "Crimean Bridge attacked again, Russia says",
@@ -944,55 +994,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "44a008dceb764579",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T10:13:35+00:00",
-      "eventDate": null,
-      "countries": [
-        "GBR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7c670ec87508ee71",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T06:12:05+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5df5b13482c35b65",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T05:59:18+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ccc2ffd18d2431da",
-      "title": "Famed ship SS United States sunk off coast of Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T04:03:13+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
