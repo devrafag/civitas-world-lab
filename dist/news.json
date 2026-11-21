@@ -1,24 +1,86 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T20:33:06.880069+00:00",
-  "lastSuccessfulFetch": "2026-11-20T20:33:06.880069+00:00",
+  "checkedAt": "2026-11-21T07:25:54.455307+00:00",
+  "lastSuccessfulFetch": "2026-11-21T07:25:54.455307+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-20T20:33:06.880069+00:00",
+      "checkedAt": "2026-11-21T07:25:54.455307+00:00",
       "items": 10
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-20T20:33:06.880069+00:00",
+      "checkedAt": "2026-11-21T07:25:54.455307+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "9bc8a6e38b5a853e",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T07:24:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "0466177158dc20d4",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T23:28:17+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "2f5717862841a73e",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T23:15:20+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "397265b10097e3d9",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T22:37:09+00:00",
+      "eventDate": null,
+      "countries": [
+        "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "c520d2a1ddb57e76",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T21:57:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d020b8aa67dc2154",
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -934,67 +996,6 @@
       "eventDate": null,
       "countries": [
         "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4d3f357daa8cc28f",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T15:15:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c680cb902e27912f",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T05:52:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "79f1de58c4924ea5",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T01:47:36+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "27ac71ecb4e41dda",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T23:11:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b13e18c3f67ad0a3",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T16:40:31+00:00",
-      "eventDate": null,
-      "countries": [
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
