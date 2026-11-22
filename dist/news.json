@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T19:29:59.844870+00:00",
-  "lastSuccessfulFetch": "2026-11-21T19:29:59.844870+00:00",
+  "checkedAt": "2026-11-22T07:07:16.182751+00:00",
+  "lastSuccessfulFetch": "2026-11-22T07:07:16.182751+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-21T19:29:59.844870+00:00",
-      "items": 9
+      "checkedAt": "2026-11-22T07:07:16.182751+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-21T19:29:59.844870+00:00",
+      "checkedAt": "2026-11-22T07:07:16.182751+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "490042f26061ca85",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T22:01:19+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "a9bb7c6e29da205c",
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -984,18 +996,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "9c404fd939f59376",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-15T00:06:51+00:00",
-      "eventDate": null,
-      "countries": [
-        "FRA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
