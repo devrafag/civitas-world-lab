@@ -1,24 +1,60 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T00:04:30.440331+00:00",
-  "lastSuccessfulFetch": "2026-11-24T00:04:30.440331+00:00",
+  "checkedAt": "2026-11-24T10:06:25.937518+00:00",
+  "lastSuccessfulFetch": "2026-11-24T10:06:25.937518+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-24T00:04:30.440331+00:00",
-      "items": 14
+      "checkedAt": "2026-11-24T10:06:25.937518+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": true,
-      "checkedAt": "2026-11-24T00:04:30.440331+00:00",
-      "items": 4
+      "ok": false,
+      "checkedAt": "2026-11-24T10:06:25.937518+00:00",
+      "error": "ParseError"
     }
   ],
   "items": [
+    {
+      "id": "c2d8990c4b9f1e11",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T07:26:27+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4acc4486706bb165",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T05:33:07+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8a11be66dc0b8ac7",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T02:15:59+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "66403463587777bc",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
@@ -961,42 +997,6 @@
       "countries": [
         "RUS",
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ebddad6a14edcf51",
-      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T03:07:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "32ba01daa8e41ea7",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T23:25:53+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3bd8003e021f3d63",
-      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T23:07:20+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
