@@ -1,24 +1,136 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T22:36:45.972349+00:00",
-  "lastSuccessfulFetch": "2026-11-24T22:36:45.972349+00:00",
+  "checkedAt": "2026-11-25T08:52:07.265021+00:00",
+  "lastSuccessfulFetch": "2026-11-25T08:52:07.265021+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-24T22:36:45.972349+00:00",
-      "items": 13
+      "checkedAt": "2026-11-25T08:52:07.265021+00:00",
+      "items": 18
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "ok": false,
-      "checkedAt": "2026-11-24T22:36:45.972349+00:00",
-      "error": "ParseError"
+      "ok": true,
+      "checkedAt": "2026-11-25T08:52:07.265021+00:00",
+      "items": 4
     }
   ],
   "items": [
+    {
+      "id": "d28edd583d67403a",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T06:36:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA",
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "291d938a9bf3eed5",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T03:28:37+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "PAK"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "762ce6d7fedd6d19",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T02:59:27+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "931118a83c11690e",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T01:40:42+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "04d7a75d17591af0",
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T01:02:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "f89a15703d397d9c",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T00:58:34+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4980e212d8f2fd41",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T00:56:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "209b69b840618609",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T00:54:13+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "803932ad076bb2b6",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T23:05:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN",
+        "TWN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "2a1422ea57bb08bb",
       "title": "US attorney general dodges questions about Nvidia investigation",
@@ -185,6 +297,18 @@
       "eventDate": null,
       "countries": [
         "FRA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "8e6ba9dc60733d71",
+      "title": "Ataques contra civiles en Ucrania, IA, violencia machista… las noticias del lunes",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542201",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-23T12:00:00+00:00",
+      "eventDate": null,
+      "countries": [
+        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     },
@@ -872,129 +996,6 @@
       "eventDate": null,
       "countries": [
         "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "985d0b433179b9b4",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T20:25:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN",
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "8fefe823db1a58c6",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T20:25:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "f5916c6537223e1e",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T18:58:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4fa78833e8141a37",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T18:27:27+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "6df3cd1195315565",
-      "title": "Who to watch in Spain's election race",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T18:13:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "ESP"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e75ac9bc5503120b",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T17:37:04+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "IRN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4c41059aab1950cd",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T17:19:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "65c3c2ac3e228291",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T15:54:15+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a126a11490f7a77e",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T14:25:45+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0155586956042949",
-      "title": "Bolivia, Estados Unidos y México pierden su estatus de países libres del sarampión",
-      "url": "https://news.un.org/feed/view/es/story/2026/11/1542184",
-      "source": "Noticias ONU",
-      "publishedAt": "2026-11-17T12:00:00+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
