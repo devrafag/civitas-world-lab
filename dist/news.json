@@ -1,24 +1,84 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T08:37:53.417077+00:00",
-  "lastSuccessfulFetch": "2026-11-26T08:37:53.417077+00:00",
+  "checkedAt": "2026-11-26T21:44:02.614499+00:00",
+  "lastSuccessfulFetch": "2026-11-26T21:44:02.614499+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-26T08:37:53.417077+00:00",
-      "items": 12
+      "checkedAt": "2026-11-26T21:44:02.614499+00:00",
+      "items": 9
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-26T08:37:53.417077+00:00",
+      "checkedAt": "2026-11-26T21:44:02.614499+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "0f889ad86b232033",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T21:17:53+00:00",
+      "eventDate": null,
+      "countries": [
+        "IRN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "531caf503c7fef54",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T19:26:16+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "976736d634d0cfa5",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T14:35:22+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dd4c603c20bbf197",
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T10:14:08+00:00",
+      "eventDate": null,
+      "countries": [
+        "ISR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "1dd5074dc1755c67",
+      "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T08:30:12+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "d256b509bbc86a95",
       "title": "Desperate appeals from women on death row in Iran after protests",
@@ -934,67 +994,6 @@
       "countries": [
         "USA",
         "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4bae7c9dd7b588be",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T20:14:57+00:00",
-      "eventDate": null,
-      "countries": [
-        "ISR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "c9225e5cee2bd860",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T20:07:08+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "29e3d15185749f88",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:34:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "3899f95c62c8755c",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:00:40+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS",
-        "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "e8d478620ac5766e",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:00:04+00:00",
-      "eventDate": null,
-      "countries": [
         "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
