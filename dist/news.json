@@ -1,24 +1,36 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-27T08:48:46.910047+00:00",
-  "lastSuccessfulFetch": "2026-11-27T08:48:46.910047+00:00",
+  "checkedAt": "2026-11-27T21:28:03.873028+00:00",
+  "lastSuccessfulFetch": "2026-11-27T21:28:03.873028+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-27T08:48:46.910047+00:00",
-      "items": 13
+      "checkedAt": "2026-11-27T21:28:03.873028+00:00",
+      "items": 8
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-27T08:48:46.910047+00:00",
+      "checkedAt": "2026-11-27T21:28:03.873028+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "65e067513a05324a",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T20:57:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "c5e1d62c5803183c",
       "title": "Could housing decide Spain's general election?",
@@ -981,18 +993,6 @@
       "eventDate": null,
       "countries": [
         "RUS"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "b294a552230e3405",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T04:42:52+00:00",
-      "eventDate": null,
-      "countries": [
-        "CHN"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
