@@ -1,24 +1,72 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T21:44:02.614499+00:00",
-  "lastSuccessfulFetch": "2026-11-26T21:44:02.614499+00:00",
+  "checkedAt": "2026-11-27T08:48:46.910047+00:00",
+  "lastSuccessfulFetch": "2026-11-27T08:48:46.910047+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-26T21:44:02.614499+00:00",
-      "items": 9
+      "checkedAt": "2026-11-27T08:48:46.910047+00:00",
+      "items": 13
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-26T21:44:02.614499+00:00",
+      "checkedAt": "2026-11-27T08:48:46.910047+00:00",
       "items": 4
     }
   ],
   "items": [
+    {
+      "id": "c5e1d62c5803183c",
+      "title": "Could housing decide Spain's general election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T06:09:31+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "da1e6fed24ce0ae9",
+      "title": "Houthi attacks test Saudi Arabia's image of security",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T06:04:51+00:00",
+      "eventDate": null,
+      "countries": [
+        "SAU"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "a067c0da2f1d9669",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T05:15:26+00:00",
+      "eventDate": null,
+      "countries": [
+        "USA"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "9b174b6e98d0e13f",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T00:47:43+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "0f889ad86b232033",
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -945,56 +993,6 @@
       "eventDate": null,
       "countries": [
         "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "5b76b8d80d91a943",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T02:59:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "d4bb422603f1c4d5",
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T00:38:52+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "4c8aeede10ce74e4",
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T23:47:46+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "a841d7eae2401c93",
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T23:28:03+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "RUS",
-        "UKR"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
