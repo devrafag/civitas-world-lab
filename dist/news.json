@@ -1,30 +1,78 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-27T21:28:03.873028+00:00",
-  "lastSuccessfulFetch": "2026-11-27T21:28:03.873028+00:00",
+  "checkedAt": "2026-11-28T08:05:45.297682+00:00",
+  "lastSuccessfulFetch": "2026-11-28T08:05:45.297682+00:00",
   "sources": [
     {
       "name": "BBC News",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-27T21:28:03.873028+00:00",
-      "items": 8
+      "checkedAt": "2026-11-28T08:05:45.297682+00:00",
+      "items": 7
     },
     {
       "name": "Noticias ONU",
       "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-27T21:28:03.873028+00:00",
-      "items": 4
+      "checkedAt": "2026-11-28T08:05:45.297682+00:00",
+      "items": 5
     }
   ],
   "items": [
+    {
+      "id": "58b7ceb1a51005c1",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-28T04:13:45+00:00",
+      "eventDate": null,
+      "countries": [
+        "TUR"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "d78f8d306811d4ce",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-28T00:50:11+00:00",
+      "eventDate": null,
+      "countries": [
+        "IND"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "dd6d2bba2a651706",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-11-27T23:02:35+00:00",
+      "eventDate": null,
+      "countries": [
+        "CHN"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
     {
       "id": "65e067513a05324a",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "publishedAt": "2026-11-27T20:57:04+00:00",
+      "eventDate": null,
+      "countries": [
+        "ESP"
+      ],
+      "classification": "Mención automática en titular; no verificación del acontecimiento"
+    },
+    {
+      "id": "4c0537c8eeb6d77e",
+      "title": "Corredor Seco, recortes y refugiadas, Costa Rica, España... Las noticias del viernes",
+      "url": "https://news.un.org/feed/view/es/story/2026/11/1542220",
+      "source": "Noticias ONU",
+      "publishedAt": "2026-11-27T12:00:00+00:00",
       "eventDate": null,
       "countries": [
         "ESP"
@@ -944,55 +992,6 @@
       "countries": [
         "RUS",
         "UKR"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "0f1dfbdae502ca8b",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T13:31:23+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "eb1e212b48f5a233",
-      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T12:56:30+00:00",
-      "eventDate": null,
-      "countries": [
-        "USA",
-        "CHN"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "7a2a34188fae0860",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T11:38:09+00:00",
-      "eventDate": null,
-      "countries": [
-        "IND"
-      ],
-      "classification": "Mención automática en titular; no verificación del acontecimiento"
-    },
-    {
-      "id": "ecb256426dd1c275",
-      "title": "Crimean Bridge attacked again, Russia says",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T07:32:06+00:00",
-      "eventDate": null,
-      "countries": [
-        "RUS"
       ],
       "classification": "Mención automática en titular; no verificación del acontecimiento"
     }
